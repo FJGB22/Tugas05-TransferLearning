@@ -1,0 +1,7 @@
+file,true,pred,confidence,p_true
+Bengal_134.jpg,Bengal,Abyssinian,0.9925264,0.007247295
+Russian_Blue_29.jpg,Russian Blue,British Shorthair,0.9689584,0.031012692
+beagle_135.jpg,Beagle,Basset Hound,0.8608226,0.13302329
+Abyssinian_215.jpg,Abyssinian,Bengal,0.7640356,0.20024012
+basset_hound_90.jpg,Basset Hound,Beagle,0.65106755,0.34747484
+Abyssinian_101.jpg,Abyssinian,Bengal,0.5908679,0.40319714

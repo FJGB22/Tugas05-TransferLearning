@@ -1,0 +1,1998 @@
+path,label,class,split
+Abyssinian_100.jpg,0,Abyssinian,train
+Abyssinian_101.jpg,0,Abyssinian,test
+Abyssinian_102.jpg,0,Abyssinian,train
+Abyssinian_103.jpg,0,Abyssinian,test
+Abyssinian_104.jpg,0,Abyssinian,train
+Abyssinian_105.jpg,0,Abyssinian,train
+Abyssinian_106.jpg,0,Abyssinian,train
+Abyssinian_107.jpg,0,Abyssinian,val
+Abyssinian_108.jpg,0,Abyssinian,test
+Abyssinian_109.jpg,0,Abyssinian,train
+Abyssinian_10.jpg,0,Abyssinian,train
+Abyssinian_110.jpg,0,Abyssinian,train
+Abyssinian_111.jpg,0,Abyssinian,train
+Abyssinian_112.jpg,0,Abyssinian,val
+Abyssinian_113.jpg,0,Abyssinian,val
+Abyssinian_114.jpg,0,Abyssinian,train
+Abyssinian_115.jpg,0,Abyssinian,train
+Abyssinian_116.jpg,0,Abyssinian,test
+Abyssinian_117.jpg,0,Abyssinian,train
+Abyssinian_118.jpg,0,Abyssinian,train
+Abyssinian_119.jpg,0,Abyssinian,test
+Abyssinian_11.jpg,0,Abyssinian,test
+Abyssinian_120.jpg,0,Abyssinian,train
+Abyssinian_121.jpg,0,Abyssinian,train
+Abyssinian_122.jpg,0,Abyssinian,train
+Abyssinian_123.jpg,0,Abyssinian,train
+Abyssinian_124.jpg,0,Abyssinian,train
+Abyssinian_125.jpg,0,Abyssinian,train
+Abyssinian_126.jpg,0,Abyssinian,train
+Abyssinian_127.jpg,0,Abyssinian,train
+Abyssinian_128.jpg,0,Abyssinian,train
+Abyssinian_129.jpg,0,Abyssinian,train
+Abyssinian_12.jpg,0,Abyssinian,train
+Abyssinian_130.jpg,0,Abyssinian,train
+Abyssinian_131.jpg,0,Abyssinian,test
+Abyssinian_132.jpg,0,Abyssinian,train
+Abyssinian_133.jpg,0,Abyssinian,train
+Abyssinian_134.jpg,0,Abyssinian,val
+Abyssinian_135.jpg,0,Abyssinian,train
+Abyssinian_136.jpg,0,Abyssinian,train
+Abyssinian_137.jpg,0,Abyssinian,train
+Abyssinian_138.jpg,0,Abyssinian,train
+Abyssinian_139.jpg,0,Abyssinian,train
+Abyssinian_13.jpg,0,Abyssinian,val
+Abyssinian_140.jpg,0,Abyssinian,train
+Abyssinian_141.jpg,0,Abyssinian,train
+Abyssinian_142.jpg,0,Abyssinian,train
+Abyssinian_143.jpg,0,Abyssinian,train
+Abyssinian_144.jpg,0,Abyssinian,val
+Abyssinian_145.jpg,0,Abyssinian,test
+basset_hound_100.jpg,5,Basset Hound,train
+basset_hound_101.jpg,5,Basset Hound,train
+basset_hound_102.jpg,5,Basset Hound,train
+basset_hound_103.jpg,5,Basset Hound,train
+basset_hound_104.jpg,5,Basset Hound,val
+basset_hound_105.jpg,5,Basset Hound,train
+basset_hound_106.jpg,5,Basset Hound,train
+basset_hound_107.jpg,5,Basset Hound,train
+basset_hound_108.jpg,5,Basset Hound,train
+basset_hound_109.jpg,5,Basset Hound,val
+basset_hound_10.jpg,5,Basset Hound,test
+basset_hound_110.jpg,5,Basset Hound,train
+basset_hound_111.jpg,5,Basset Hound,train
+basset_hound_112.jpg,5,Basset Hound,train
+basset_hound_113.jpg,5,Basset Hound,test
+basset_hound_114.jpg,5,Basset Hound,train
+basset_hound_115.jpg,5,Basset Hound,train
+basset_hound_116.jpg,5,Basset Hound,train
+basset_hound_117.jpg,5,Basset Hound,train
+basset_hound_118.jpg,5,Basset Hound,train
+basset_hound_119.jpg,5,Basset Hound,train
+basset_hound_11.jpg,5,Basset Hound,train
+basset_hound_120.jpg,5,Basset Hound,test
+basset_hound_121.jpg,5,Basset Hound,train
+basset_hound_122.jpg,5,Basset Hound,train
+basset_hound_123.jpg,5,Basset Hound,val
+basset_hound_124.jpg,5,Basset Hound,val
+basset_hound_125.jpg,5,Basset Hound,train
+basset_hound_126.jpg,5,Basset Hound,train
+basset_hound_127.jpg,5,Basset Hound,train
+basset_hound_128.jpg,5,Basset Hound,train
+basset_hound_129.jpg,5,Basset Hound,train
+basset_hound_12.jpg,5,Basset Hound,test
+basset_hound_130.jpg,5,Basset Hound,train
+basset_hound_131.jpg,5,Basset Hound,train
+basset_hound_132.jpg,5,Basset Hound,val
+basset_hound_133.jpg,5,Basset Hound,train
+basset_hound_134.jpg,5,Basset Hound,test
+basset_hound_135.jpg,5,Basset Hound,train
+basset_hound_136.jpg,5,Basset Hound,train
+basset_hound_137.jpg,5,Basset Hound,train
+basset_hound_138.jpg,5,Basset Hound,test
+basset_hound_139.jpg,5,Basset Hound,val
+basset_hound_13.jpg,5,Basset Hound,train
+basset_hound_140.jpg,5,Basset Hound,train
+basset_hound_141.jpg,5,Basset Hound,val
+basset_hound_142.jpg,5,Basset Hound,test
+basset_hound_143.jpg,5,Basset Hound,train
+basset_hound_144.jpg,5,Basset Hound,train
+basset_hound_145.jpg,5,Basset Hound,train
+beagle_100.jpg,6,Beagle,train
+beagle_101.jpg,6,Beagle,val
+beagle_102.jpg,6,Beagle,train
+beagle_103.jpg,6,Beagle,train
+beagle_104.jpg,6,Beagle,val
+beagle_105.jpg,6,Beagle,train
+beagle_107.jpg,6,Beagle,test
+beagle_108.jpg,6,Beagle,val
+beagle_109.jpg,6,Beagle,test
+beagle_10.jpg,6,Beagle,train
+beagle_110.jpg,6,Beagle,val
+beagle_111.jpg,6,Beagle,train
+beagle_112.jpg,6,Beagle,train
+beagle_113.jpg,6,Beagle,val
+beagle_114.jpg,6,Beagle,train
+beagle_115.jpg,6,Beagle,train
+beagle_116.jpg,6,Beagle,train
+beagle_117.jpg,6,Beagle,train
+beagle_118.jpg,6,Beagle,train
+beagle_119.jpg,6,Beagle,test
+beagle_120.jpg,6,Beagle,train
+beagle_121.jpg,6,Beagle,train
+beagle_122.jpg,6,Beagle,train
+beagle_123.jpg,6,Beagle,val
+beagle_124.jpg,6,Beagle,train
+beagle_125.jpg,6,Beagle,train
+beagle_126.jpg,6,Beagle,train
+beagle_127.jpg,6,Beagle,train
+beagle_128.jpg,6,Beagle,test
+beagle_129.jpg,6,Beagle,train
+beagle_12.jpg,6,Beagle,train
+beagle_130.jpg,6,Beagle,test
+beagle_131.jpg,6,Beagle,train
+beagle_133.jpg,6,Beagle,train
+beagle_134.jpg,6,Beagle,val
+beagle_135.jpg,6,Beagle,test
+beagle_136.jpg,6,Beagle,test
+beagle_137.jpg,6,Beagle,train
+beagle_138.jpg,6,Beagle,train
+beagle_139.jpg,6,Beagle,train
+beagle_13.jpg,6,Beagle,train
+beagle_140.jpg,6,Beagle,train
+beagle_141.jpg,6,Beagle,train
+beagle_142.jpg,6,Beagle,train
+beagle_143.jpg,6,Beagle,train
+beagle_144.jpg,6,Beagle,test
+beagle_145.jpg,6,Beagle,test
+beagle_146.jpg,6,Beagle,train
+beagle_147.jpg,6,Beagle,train
+beagle_148.jpg,6,Beagle,train
+Bengal_100.jpg,1,Bengal,train
+Bengal_101.jpg,1,Bengal,test
+Bengal_102.jpg,1,Bengal,val
+Bengal_103.jpg,1,Bengal,train
+Bengal_104.jpg,1,Bengal,train
+Bengal_105.jpg,1,Bengal,train
+Bengal_106.jpg,1,Bengal,test
+Bengal_107.jpg,1,Bengal,train
+Bengal_108.jpg,1,Bengal,test
+Bengal_109.jpg,1,Bengal,train
+Bengal_10.jpg,1,Bengal,test
+Bengal_110.jpg,1,Bengal,train
+Bengal_111.jpg,1,Bengal,train
+Bengal_112.jpg,1,Bengal,train
+Bengal_113.jpg,1,Bengal,train
+Bengal_114.jpg,1,Bengal,train
+Bengal_115.jpg,1,Bengal,train
+Bengal_116.jpg,1,Bengal,train
+Bengal_117.jpg,1,Bengal,train
+Bengal_118.jpg,1,Bengal,train
+Bengal_119.jpg,1,Bengal,train
+Bengal_11.jpg,1,Bengal,train
+Bengal_120.jpg,1,Bengal,train
+Bengal_121.jpg,1,Bengal,val
+Bengal_122.jpg,1,Bengal,train
+Bengal_123.jpg,1,Bengal,train
+Bengal_124.jpg,1,Bengal,train
+Bengal_125.jpg,1,Bengal,train
+Bengal_126.jpg,1,Bengal,train
+Bengal_127.jpg,1,Bengal,train
+Bengal_128.jpg,1,Bengal,train
+Bengal_129.jpg,1,Bengal,train
+Bengal_12.jpg,1,Bengal,train
+Bengal_130.jpg,1,Bengal,train
+Bengal_131.jpg,1,Bengal,train
+Bengal_132.jpg,1,Bengal,train
+Bengal_133.jpg,1,Bengal,test
+Bengal_134.jpg,1,Bengal,test
+Bengal_135.jpg,1,Bengal,val
+Bengal_136.jpg,1,Bengal,train
+Bengal_137.jpg,1,Bengal,train
+Bengal_138.jpg,1,Bengal,test
+Bengal_139.jpg,1,Bengal,train
+Bengal_13.jpg,1,Bengal,train
+Bengal_140.jpg,1,Bengal,train
+Bengal_141.jpg,1,Bengal,train
+Bengal_142.jpg,1,Bengal,train
+Bengal_143.jpg,1,Bengal,test
+Bengal_144.jpg,1,Bengal,train
+Bengal_145.jpg,1,Bengal,train
+British_Shorthair_100.jpg,2,British Shorthair,test
+British_Shorthair_101.jpg,2,British Shorthair,train
+British_Shorthair_102.jpg,2,British Shorthair,train
+British_Shorthair_103.jpg,2,British Shorthair,val
+British_Shorthair_104.jpg,2,British Shorthair,train
+British_Shorthair_105.jpg,2,British Shorthair,train
+British_Shorthair_106.jpg,2,British Shorthair,train
+British_Shorthair_107.jpg,2,British Shorthair,train
+British_Shorthair_108.jpg,2,British Shorthair,train
+British_Shorthair_109.jpg,2,British Shorthair,val
+British_Shorthair_10.jpg,2,British Shorthair,train
+British_Shorthair_110.jpg,2,British Shorthair,train
+British_Shorthair_111.jpg,2,British Shorthair,train
+British_Shorthair_112.jpg,2,British Shorthair,train
+British_Shorthair_113.jpg,2,British Shorthair,train
+British_Shorthair_114.jpg,2,British Shorthair,test
+British_Shorthair_115.jpg,2,British Shorthair,train
+British_Shorthair_116.jpg,2,British Shorthair,train
+British_Shorthair_117.jpg,2,British Shorthair,test
+British_Shorthair_118.jpg,2,British Shorthair,train
+British_Shorthair_119.jpg,2,British Shorthair,train
+British_Shorthair_120.jpg,2,British Shorthair,val
+British_Shorthair_121.jpg,2,British Shorthair,val
+British_Shorthair_122.jpg,2,British Shorthair,val
+British_Shorthair_123.jpg,2,British Shorthair,train
+British_Shorthair_124.jpg,2,British Shorthair,train
+British_Shorthair_125.jpg,2,British Shorthair,train
+British_Shorthair_126.jpg,2,British Shorthair,train
+British_Shorthair_127.jpg,2,British Shorthair,val
+British_Shorthair_128.jpg,2,British Shorthair,train
+British_Shorthair_129.jpg,2,British Shorthair,train
+British_Shorthair_130.jpg,2,British Shorthair,train
+British_Shorthair_133.jpg,2,British Shorthair,val
+British_Shorthair_134.jpg,2,British Shorthair,test
+British_Shorthair_135.jpg,2,British Shorthair,train
+British_Shorthair_136.jpg,2,British Shorthair,train
+British_Shorthair_137.jpg,2,British Shorthair,train
+British_Shorthair_139.jpg,2,British Shorthair,train
+British_Shorthair_140.jpg,2,British Shorthair,val
+British_Shorthair_141.jpg,2,British Shorthair,train
+British_Shorthair_144.jpg,2,British Shorthair,train
+British_Shorthair_145.jpg,2,British Shorthair,train
+British_Shorthair_148.jpg,2,British Shorthair,train
+British_Shorthair_149.jpg,2,British Shorthair,train
+British_Shorthair_151.jpg,2,British Shorthair,train
+British_Shorthair_153.jpg,2,British Shorthair,train
+British_Shorthair_154.jpg,2,British Shorthair,test
+British_Shorthair_155.jpg,2,British Shorthair,val
+British_Shorthair_156.jpg,2,British Shorthair,train
+British_Shorthair_157.jpg,2,British Shorthair,train
+pug_100.jpg,7,Pug,train
+pug_101.jpg,7,Pug,train
+pug_102.jpg,7,Pug,val
+pug_103.jpg,7,Pug,val
+pug_104.jpg,7,Pug,train
+pug_105.jpg,7,Pug,train
+pug_106.jpg,7,Pug,train
+pug_107.jpg,7,Pug,train
+pug_108.jpg,7,Pug,train
+pug_109.jpg,7,Pug,val
+pug_10.jpg,7,Pug,train
+pug_110.jpg,7,Pug,train
+pug_111.jpg,7,Pug,test
+pug_112.jpg,7,Pug,test
+pug_114.jpg,7,Pug,test
+pug_115.jpg,7,Pug,test
+pug_116.jpg,7,Pug,test
+pug_117.jpg,7,Pug,val
+pug_118.jpg,7,Pug,train
+pug_119.jpg,7,Pug,train
+pug_11.jpg,7,Pug,train
+pug_120.jpg,7,Pug,train
+pug_121.jpg,7,Pug,train
+pug_122.jpg,7,Pug,train
+pug_123.jpg,7,Pug,train
+pug_124.jpg,7,Pug,train
+pug_125.jpg,7,Pug,train
+pug_126.jpg,7,Pug,train
+pug_127.jpg,7,Pug,val
+pug_128.jpg,7,Pug,train
+pug_129.jpg,7,Pug,train
+pug_12.jpg,7,Pug,train
+pug_130.jpg,7,Pug,train
+pug_131.jpg,7,Pug,val
+pug_132.jpg,7,Pug,train
+pug_133.jpg,7,Pug,train
+pug_134.jpg,7,Pug,test
+pug_135.jpg,7,Pug,train
+pug_136.jpg,7,Pug,val
+pug_137.jpg,7,Pug,train
+pug_138.jpg,7,Pug,train
+pug_139.jpg,7,Pug,train
+pug_13.jpg,7,Pug,train
+pug_140.jpg,7,Pug,train
+pug_141.jpg,7,Pug,val
+pug_142.jpg,7,Pug,val
+pug_143.jpg,7,Pug,train
+pug_144.jpg,7,Pug,train
+pug_145.jpg,7,Pug,val
+pug_146.jpg,7,Pug,train
+Russian_Blue_100.jpg,3,Russian Blue,val
+Russian_Blue_101.jpg,3,Russian Blue,train
+Russian_Blue_102.jpg,3,Russian Blue,test
+Russian_Blue_103.jpg,3,Russian Blue,train
+Russian_Blue_104.jpg,3,Russian Blue,train
+Russian_Blue_106.jpg,3,Russian Blue,train
+Russian_Blue_107.jpg,3,Russian Blue,train
+Russian_Blue_108.jpg,3,Russian Blue,val
+Russian_Blue_109.jpg,3,Russian Blue,train
+Russian_Blue_10.jpg,3,Russian Blue,val
+Russian_Blue_110.jpg,3,Russian Blue,train
+Russian_Blue_111.jpg,3,Russian Blue,val
+Russian_Blue_112.jpg,3,Russian Blue,train
+Russian_Blue_113.jpg,3,Russian Blue,val
+Russian_Blue_114.jpg,3,Russian Blue,train
+Russian_Blue_115.jpg,3,Russian Blue,test
+Russian_Blue_116.jpg,3,Russian Blue,train
+Russian_Blue_117.jpg,3,Russian Blue,train
+Russian_Blue_118.jpg,3,Russian Blue,train
+Russian_Blue_119.jpg,3,Russian Blue,test
+Russian_Blue_120.jpg,3,Russian Blue,train
+Russian_Blue_122.jpg,3,Russian Blue,train
+Russian_Blue_123.jpg,3,Russian Blue,train
+Russian_Blue_124.jpg,3,Russian Blue,train
+Russian_Blue_125.jpg,3,Russian Blue,train
+Russian_Blue_127.jpg,3,Russian Blue,train
+Russian_Blue_128.jpg,3,Russian Blue,train
+Russian_Blue_129.jpg,3,Russian Blue,test
+Russian_Blue_12.jpg,3,Russian Blue,train
+Russian_Blue_130.jpg,3,Russian Blue,train
+Russian_Blue_131.jpg,3,Russian Blue,train
+Russian_Blue_132.jpg,3,Russian Blue,train
+Russian_Blue_133.jpg,3,Russian Blue,train
+Russian_Blue_135.jpg,3,Russian Blue,train
+Russian_Blue_136.jpg,3,Russian Blue,test
+Russian_Blue_137.jpg,3,Russian Blue,train
+Russian_Blue_139.jpg,3,Russian Blue,train
+Russian_Blue_13.jpg,3,Russian Blue,train
+Russian_Blue_140.jpg,3,Russian Blue,train
+Russian_Blue_142.jpg,3,Russian Blue,train
+Russian_Blue_143.jpg,3,Russian Blue,test
+Russian_Blue_144.jpg,3,Russian Blue,train
+Russian_Blue_145.jpg,3,Russian Blue,train
+Russian_Blue_146.jpg,3,Russian Blue,test
+Russian_Blue_147.jpg,3,Russian Blue,train
+Russian_Blue_148.jpg,3,Russian Blue,val
+Russian_Blue_149.jpg,3,Russian Blue,val
+Russian_Blue_14.jpg,3,Russian Blue,train
+Russian_Blue_150.jpg,3,Russian Blue,val
+Russian_Blue_151.jpg,3,Russian Blue,train
+samoyed_100.jpg,8,Samoyed,train
+samoyed_101.jpg,8,Samoyed,train
+samoyed_102.jpg,8,Samoyed,train
+samoyed_103.jpg,8,Samoyed,test
+samoyed_104.jpg,8,Samoyed,train
+samoyed_105.jpg,8,Samoyed,test
+samoyed_106.jpg,8,Samoyed,test
+samoyed_107.jpg,8,Samoyed,train
+samoyed_108.jpg,8,Samoyed,train
+samoyed_109.jpg,8,Samoyed,train
+samoyed_10.jpg,8,Samoyed,train
+samoyed_110.jpg,8,Samoyed,val
+samoyed_111.jpg,8,Samoyed,train
+samoyed_112.jpg,8,Samoyed,val
+samoyed_113.jpg,8,Samoyed,val
+samoyed_114.jpg,8,Samoyed,train
+samoyed_115.jpg,8,Samoyed,test
+samoyed_116.jpg,8,Samoyed,train
+samoyed_117.jpg,8,Samoyed,train
+samoyed_118.jpg,8,Samoyed,train
+samoyed_119.jpg,8,Samoyed,test
+samoyed_11.jpg,8,Samoyed,val
+samoyed_120.jpg,8,Samoyed,train
+samoyed_121.jpg,8,Samoyed,train
+samoyed_122.jpg,8,Samoyed,train
+samoyed_123.jpg,8,Samoyed,val
+samoyed_124.jpg,8,Samoyed,val
+samoyed_125.jpg,8,Samoyed,train
+samoyed_126.jpg,8,Samoyed,val
+samoyed_127.jpg,8,Samoyed,train
+samoyed_128.jpg,8,Samoyed,train
+samoyed_129.jpg,8,Samoyed,test
+samoyed_12.jpg,8,Samoyed,test
+samoyed_130.jpg,8,Samoyed,train
+samoyed_131.jpg,8,Samoyed,train
+samoyed_132.jpg,8,Samoyed,train
+samoyed_133.jpg,8,Samoyed,test
+samoyed_134.jpg,8,Samoyed,train
+samoyed_135.jpg,8,Samoyed,val
+samoyed_136.jpg,8,Samoyed,train
+samoyed_137.jpg,8,Samoyed,train
+samoyed_138.jpg,8,Samoyed,train
+samoyed_139.jpg,8,Samoyed,train
+samoyed_13.jpg,8,Samoyed,train
+samoyed_140.jpg,8,Samoyed,train
+samoyed_141.jpg,8,Samoyed,train
+samoyed_142.jpg,8,Samoyed,test
+samoyed_143.jpg,8,Samoyed,train
+samoyed_144.jpg,8,Samoyed,train
+samoyed_145.jpg,8,Samoyed,test
+shiba_inu_100.jpg,9,Shiba Inu,train
+shiba_inu_101.jpg,9,Shiba Inu,val
+shiba_inu_102.jpg,9,Shiba Inu,train
+shiba_inu_103.jpg,9,Shiba Inu,test
+shiba_inu_104.jpg,9,Shiba Inu,train
+shiba_inu_105.jpg,9,Shiba Inu,test
+shiba_inu_106.jpg,9,Shiba Inu,train
+shiba_inu_107.jpg,9,Shiba Inu,val
+shiba_inu_108.jpg,9,Shiba Inu,train
+shiba_inu_109.jpg,9,Shiba Inu,train
+shiba_inu_10.jpg,9,Shiba Inu,train
+shiba_inu_110.jpg,9,Shiba Inu,test
+shiba_inu_111.jpg,9,Shiba Inu,train
+shiba_inu_112.jpg,9,Shiba Inu,test
+shiba_inu_113.jpg,9,Shiba Inu,train
+shiba_inu_114.jpg,9,Shiba Inu,train
+shiba_inu_115.jpg,9,Shiba Inu,train
+shiba_inu_116.jpg,9,Shiba Inu,val
+shiba_inu_117.jpg,9,Shiba Inu,train
+shiba_inu_118.jpg,9,Shiba Inu,test
+shiba_inu_119.jpg,9,Shiba Inu,test
+shiba_inu_11.jpg,9,Shiba Inu,train
+shiba_inu_120.jpg,9,Shiba Inu,train
+shiba_inu_121.jpg,9,Shiba Inu,val
+shiba_inu_122.jpg,9,Shiba Inu,train
+shiba_inu_123.jpg,9,Shiba Inu,test
+shiba_inu_124.jpg,9,Shiba Inu,train
+shiba_inu_125.jpg,9,Shiba Inu,train
+shiba_inu_126.jpg,9,Shiba Inu,train
+shiba_inu_127.jpg,9,Shiba Inu,train
+shiba_inu_128.jpg,9,Shiba Inu,train
+shiba_inu_129.jpg,9,Shiba Inu,test
+shiba_inu_12.jpg,9,Shiba Inu,train
+shiba_inu_130.jpg,9,Shiba Inu,train
+shiba_inu_131.jpg,9,Shiba Inu,val
+shiba_inu_132.jpg,9,Shiba Inu,train
+shiba_inu_133.jpg,9,Shiba Inu,test
+shiba_inu_134.jpg,9,Shiba Inu,train
+shiba_inu_135.jpg,9,Shiba Inu,val
+shiba_inu_136.jpg,9,Shiba Inu,test
+shiba_inu_137.jpg,9,Shiba Inu,train
+shiba_inu_139.jpg,9,Shiba Inu,val
+shiba_inu_13.jpg,9,Shiba Inu,train
+shiba_inu_140.jpg,9,Shiba Inu,val
+shiba_inu_141.jpg,9,Shiba Inu,train
+shiba_inu_142.jpg,9,Shiba Inu,train
+shiba_inu_143.jpg,9,Shiba Inu,train
+shiba_inu_144.jpg,9,Shiba Inu,train
+shiba_inu_145.jpg,9,Shiba Inu,test
+shiba_inu_146.jpg,9,Shiba Inu,val
+Siamese_100.jpg,4,Siamese,test
+Siamese_101.jpg,4,Siamese,train
+Siamese_102.jpg,4,Siamese,test
+Siamese_103.jpg,4,Siamese,train
+Siamese_104.jpg,4,Siamese,train
+Siamese_106.jpg,4,Siamese,train
+Siamese_108.jpg,4,Siamese,test
+Siamese_109.jpg,4,Siamese,test
+Siamese_110.jpg,4,Siamese,train
+Siamese_111.jpg,4,Siamese,train
+Siamese_112.jpg,4,Siamese,train
+Siamese_113.jpg,4,Siamese,train
+Siamese_114.jpg,4,Siamese,test
+Siamese_115.jpg,4,Siamese,test
+Siamese_116.jpg,4,Siamese,test
+Siamese_117.jpg,4,Siamese,train
+Siamese_119.jpg,4,Siamese,val
+Siamese_120.jpg,4,Siamese,test
+Siamese_122.jpg,4,Siamese,train
+Siamese_125.jpg,4,Siamese,train
+Siamese_126.jpg,4,Siamese,train
+Siamese_127.jpg,4,Siamese,train
+Siamese_128.jpg,4,Siamese,train
+Siamese_129.jpg,4,Siamese,train
+Siamese_130.jpg,4,Siamese,val
+Siamese_131.jpg,4,Siamese,test
+Siamese_133.jpg,4,Siamese,train
+Siamese_135.jpg,4,Siamese,test
+Siamese_136.jpg,4,Siamese,train
+Siamese_137.jpg,4,Siamese,train
+Siamese_138.jpg,4,Siamese,train
+Siamese_139.jpg,4,Siamese,train
+Siamese_140.jpg,4,Siamese,train
+Siamese_141.jpg,4,Siamese,val
+Siamese_142.jpg,4,Siamese,train
+Siamese_143.jpg,4,Siamese,val
+Siamese_144.jpg,4,Siamese,train
+Siamese_145.jpg,4,Siamese,val
+Siamese_146.jpg,4,Siamese,val
+Siamese_147.jpg,4,Siamese,train
+Siamese_148.jpg,4,Siamese,train
+Siamese_149.jpg,4,Siamese,train
+Siamese_14.jpg,4,Siamese,train
+Siamese_150.jpg,4,Siamese,val
+Siamese_151.jpg,4,Siamese,train
+Siamese_152.jpg,4,Siamese,train
+Siamese_153.jpg,4,Siamese,val
+Siamese_154.jpg,4,Siamese,val
+Siamese_155.jpg,4,Siamese,train
+Siamese_156.jpg,4,Siamese,train
+Abyssinian_146.jpg,0,Abyssinian,test
+Abyssinian_148.jpg,0,Abyssinian,train
+Abyssinian_149.jpg,0,Abyssinian,test
+Abyssinian_14.jpg,0,Abyssinian,test
+Abyssinian_150.jpg,0,Abyssinian,test
+Abyssinian_151.jpg,0,Abyssinian,train
+Abyssinian_152.jpg,0,Abyssinian,train
+Abyssinian_153.jpg,0,Abyssinian,val
+Abyssinian_154.jpg,0,Abyssinian,val
+Abyssinian_155.jpg,0,Abyssinian,test
+Abyssinian_156.jpg,0,Abyssinian,train
+Abyssinian_157.jpg,0,Abyssinian,train
+Abyssinian_158.jpg,0,Abyssinian,train
+Abyssinian_159.jpg,0,Abyssinian,test
+Abyssinian_15.jpg,0,Abyssinian,train
+Abyssinian_160.jpg,0,Abyssinian,train
+Abyssinian_161.jpg,0,Abyssinian,train
+Abyssinian_164.jpg,0,Abyssinian,train
+Abyssinian_165.jpg,0,Abyssinian,train
+Abyssinian_166.jpg,0,Abyssinian,train
+Abyssinian_167.jpg,0,Abyssinian,train
+Abyssinian_168.jpg,0,Abyssinian,train
+Abyssinian_169.jpg,0,Abyssinian,val
+Abyssinian_16.jpg,0,Abyssinian,train
+Abyssinian_170.jpg,0,Abyssinian,val
+Abyssinian_172.jpg,0,Abyssinian,train
+Abyssinian_173.jpg,0,Abyssinian,train
+Abyssinian_174.jpg,0,Abyssinian,train
+Abyssinian_175.jpg,0,Abyssinian,train
+Abyssinian_176.jpg,0,Abyssinian,train
+Abyssinian_177.jpg,0,Abyssinian,test
+Abyssinian_178.jpg,0,Abyssinian,train
+Abyssinian_179.jpg,0,Abyssinian,train
+Abyssinian_17.jpg,0,Abyssinian,val
+Abyssinian_180.jpg,0,Abyssinian,train
+Abyssinian_181.jpg,0,Abyssinian,train
+Abyssinian_182.jpg,0,Abyssinian,train
+Abyssinian_183.jpg,0,Abyssinian,val
+Abyssinian_184.jpg,0,Abyssinian,val
+Abyssinian_185.jpg,0,Abyssinian,val
+Abyssinian_18.jpg,0,Abyssinian,train
+Abyssinian_190.jpg,0,Abyssinian,val
+Abyssinian_191.jpg,0,Abyssinian,train
+Abyssinian_192.jpg,0,Abyssinian,train
+Abyssinian_193.jpg,0,Abyssinian,train
+Abyssinian_195.jpg,0,Abyssinian,train
+Abyssinian_196.jpg,0,Abyssinian,train
+Abyssinian_197.jpg,0,Abyssinian,train
+Abyssinian_19.jpg,0,Abyssinian,train
+Abyssinian_1.jpg,0,Abyssinian,val
+basset_hound_146.jpg,5,Basset Hound,train
+basset_hound_147.jpg,5,Basset Hound,train
+basset_hound_148.jpg,5,Basset Hound,train
+basset_hound_149.jpg,5,Basset Hound,train
+basset_hound_14.jpg,5,Basset Hound,train
+basset_hound_150.jpg,5,Basset Hound,train
+basset_hound_151.jpg,5,Basset Hound,train
+basset_hound_152.jpg,5,Basset Hound,train
+basset_hound_153.jpg,5,Basset Hound,train
+basset_hound_154.jpg,5,Basset Hound,train
+basset_hound_155.jpg,5,Basset Hound,train
+basset_hound_156.jpg,5,Basset Hound,train
+basset_hound_157.jpg,5,Basset Hound,train
+basset_hound_158.jpg,5,Basset Hound,train
+basset_hound_159.jpg,5,Basset Hound,train
+basset_hound_15.jpg,5,Basset Hound,test
+basset_hound_160.jpg,5,Basset Hound,test
+basset_hound_161.jpg,5,Basset Hound,test
+basset_hound_162.jpg,5,Basset Hound,val
+basset_hound_163.jpg,5,Basset Hound,train
+basset_hound_164.jpg,5,Basset Hound,train
+basset_hound_165.jpg,5,Basset Hound,train
+basset_hound_166.jpg,5,Basset Hound,train
+basset_hound_167.jpg,5,Basset Hound,val
+basset_hound_168.jpg,5,Basset Hound,train
+basset_hound_169.jpg,5,Basset Hound,test
+basset_hound_16.jpg,5,Basset Hound,train
+basset_hound_170.jpg,5,Basset Hound,train
+basset_hound_171.jpg,5,Basset Hound,train
+basset_hound_172.jpg,5,Basset Hound,train
+basset_hound_173.jpg,5,Basset Hound,train
+basset_hound_174.jpg,5,Basset Hound,train
+basset_hound_175.jpg,5,Basset Hound,train
+basset_hound_176.jpg,5,Basset Hound,train
+basset_hound_177.jpg,5,Basset Hound,train
+basset_hound_178.jpg,5,Basset Hound,val
+basset_hound_179.jpg,5,Basset Hound,train
+basset_hound_17.jpg,5,Basset Hound,train
+basset_hound_180.jpg,5,Basset Hound,train
+basset_hound_181.jpg,5,Basset Hound,val
+basset_hound_182.jpg,5,Basset Hound,train
+basset_hound_183.jpg,5,Basset Hound,train
+basset_hound_184.jpg,5,Basset Hound,train
+basset_hound_185.jpg,5,Basset Hound,train
+basset_hound_186.jpg,5,Basset Hound,test
+basset_hound_187.jpg,5,Basset Hound,train
+basset_hound_188.jpg,5,Basset Hound,val
+basset_hound_189.jpg,5,Basset Hound,train
+basset_hound_18.jpg,5,Basset Hound,train
+basset_hound_190.jpg,5,Basset Hound,train
+beagle_149.jpg,6,Beagle,val
+beagle_14.jpg,6,Beagle,train
+beagle_150.jpg,6,Beagle,val
+beagle_151.jpg,6,Beagle,test
+beagle_152.jpg,6,Beagle,test
+beagle_153.jpg,6,Beagle,train
+beagle_154.jpg,6,Beagle,train
+beagle_155.jpg,6,Beagle,train
+beagle_156.jpg,6,Beagle,test
+beagle_157.jpg,6,Beagle,train
+beagle_158.jpg,6,Beagle,train
+beagle_15.jpg,6,Beagle,train
+beagle_160.jpg,6,Beagle,train
+beagle_161.jpg,6,Beagle,train
+beagle_162.jpg,6,Beagle,train
+beagle_163.jpg,6,Beagle,train
+beagle_164.jpg,6,Beagle,test
+beagle_165.jpg,6,Beagle,train
+beagle_166.jpg,6,Beagle,train
+beagle_167.jpg,6,Beagle,train
+beagle_168.jpg,6,Beagle,train
+beagle_169.jpg,6,Beagle,val
+beagle_16.jpg,6,Beagle,train
+beagle_170.jpg,6,Beagle,val
+beagle_171.jpg,6,Beagle,train
+beagle_172.jpg,6,Beagle,train
+beagle_173.jpg,6,Beagle,train
+beagle_174.jpg,6,Beagle,val
+beagle_175.jpg,6,Beagle,train
+beagle_176.jpg,6,Beagle,train
+beagle_177.jpg,6,Beagle,val
+beagle_178.jpg,6,Beagle,val
+beagle_179.jpg,6,Beagle,train
+beagle_17.jpg,6,Beagle,train
+beagle_180.jpg,6,Beagle,val
+beagle_181.jpg,6,Beagle,val
+beagle_182.jpg,6,Beagle,train
+beagle_183.jpg,6,Beagle,test
+beagle_184.jpg,6,Beagle,train
+beagle_185.jpg,6,Beagle,train
+beagle_186.jpg,6,Beagle,train
+beagle_187.jpg,6,Beagle,val
+beagle_188.jpg,6,Beagle,train
+beagle_189.jpg,6,Beagle,train
+beagle_18.jpg,6,Beagle,train
+beagle_190.jpg,6,Beagle,val
+beagle_191.jpg,6,Beagle,test
+beagle_192.jpg,6,Beagle,train
+beagle_193.jpg,6,Beagle,test
+beagle_194.jpg,6,Beagle,train
+Bengal_146.jpg,1,Bengal,train
+Bengal_147.jpg,1,Bengal,val
+Bengal_148.jpg,1,Bengal,train
+Bengal_149.jpg,1,Bengal,val
+Bengal_14.jpg,1,Bengal,train
+Bengal_150.jpg,1,Bengal,train
+Bengal_151.jpg,1,Bengal,train
+Bengal_152.jpg,1,Bengal,train
+Bengal_153.jpg,1,Bengal,train
+Bengal_154.jpg,1,Bengal,val
+Bengal_155.jpg,1,Bengal,train
+Bengal_156.jpg,1,Bengal,train
+Bengal_157.jpg,1,Bengal,train
+Bengal_158.jpg,1,Bengal,train
+Bengal_159.jpg,1,Bengal,train
+Bengal_15.jpg,1,Bengal,train
+Bengal_160.jpg,1,Bengal,train
+Bengal_161.jpg,1,Bengal,test
+Bengal_162.jpg,1,Bengal,val
+Bengal_163.jpg,1,Bengal,test
+Bengal_164.jpg,1,Bengal,train
+Bengal_165.jpg,1,Bengal,train
+Bengal_166.jpg,1,Bengal,train
+Bengal_167.jpg,1,Bengal,train
+Bengal_168.jpg,1,Bengal,val
+Bengal_169.jpg,1,Bengal,train
+Bengal_16.jpg,1,Bengal,train
+Bengal_170.jpg,1,Bengal,train
+Bengal_171.jpg,1,Bengal,train
+Bengal_172.jpg,1,Bengal,train
+Bengal_173.jpg,1,Bengal,train
+Bengal_174.jpg,1,Bengal,test
+Bengal_175.jpg,1,Bengal,train
+Bengal_176.jpg,1,Bengal,train
+Bengal_177.jpg,1,Bengal,train
+Bengal_178.jpg,1,Bengal,train
+Bengal_179.jpg,1,Bengal,train
+Bengal_17.jpg,1,Bengal,train
+Bengal_180.jpg,1,Bengal,train
+Bengal_182.jpg,1,Bengal,val
+Bengal_183.jpg,1,Bengal,train
+Bengal_184.jpg,1,Bengal,train
+Bengal_185.jpg,1,Bengal,val
+Bengal_186.jpg,1,Bengal,train
+Bengal_187.jpg,1,Bengal,train
+Bengal_188.jpg,1,Bengal,val
+Bengal_189.jpg,1,Bengal,val
+Bengal_18.jpg,1,Bengal,test
+Bengal_190.jpg,1,Bengal,test
+Bengal_191.jpg,1,Bengal,train
+British_Shorthair_158.jpg,2,British Shorthair,train
+British_Shorthair_159.jpg,2,British Shorthair,train
+British_Shorthair_15.jpg,2,British Shorthair,train
+British_Shorthair_160.jpg,2,British Shorthair,train
+British_Shorthair_161.jpg,2,British Shorthair,train
+British_Shorthair_162.jpg,2,British Shorthair,train
+British_Shorthair_163.jpg,2,British Shorthair,train
+British_Shorthair_164.jpg,2,British Shorthair,test
+British_Shorthair_165.jpg,2,British Shorthair,train
+British_Shorthair_166.jpg,2,British Shorthair,train
+British_Shorthair_167.jpg,2,British Shorthair,train
+British_Shorthair_168.jpg,2,British Shorthair,val
+British_Shorthair_169.jpg,2,British Shorthair,test
+British_Shorthair_16.jpg,2,British Shorthair,train
+British_Shorthair_170.jpg,2,British Shorthair,train
+British_Shorthair_172.jpg,2,British Shorthair,train
+British_Shorthair_173.jpg,2,British Shorthair,train
+British_Shorthair_174.jpg,2,British Shorthair,train
+British_Shorthair_175.jpg,2,British Shorthair,val
+British_Shorthair_176.jpg,2,British Shorthair,train
+British_Shorthair_177.jpg,2,British Shorthair,train
+British_Shorthair_178.jpg,2,British Shorthair,train
+British_Shorthair_179.jpg,2,British Shorthair,train
+British_Shorthair_17.jpg,2,British Shorthair,train
+British_Shorthair_180.jpg,2,British Shorthair,train
+British_Shorthair_181.jpg,2,British Shorthair,test
+British_Shorthair_182.jpg,2,British Shorthair,train
+British_Shorthair_183.jpg,2,British Shorthair,train
+British_Shorthair_184.jpg,2,British Shorthair,train
+British_Shorthair_185.jpg,2,British Shorthair,train
+British_Shorthair_186.jpg,2,British Shorthair,train
+British_Shorthair_187.jpg,2,British Shorthair,train
+British_Shorthair_188.jpg,2,British Shorthair,train
+British_Shorthair_189.jpg,2,British Shorthair,train
+British_Shorthair_18.jpg,2,British Shorthair,test
+British_Shorthair_190.jpg,2,British Shorthair,val
+British_Shorthair_193.jpg,2,British Shorthair,train
+British_Shorthair_195.jpg,2,British Shorthair,train
+British_Shorthair_196.jpg,2,British Shorthair,val
+British_Shorthair_197.jpg,2,British Shorthair,val
+British_Shorthair_198.jpg,2,British Shorthair,train
+British_Shorthair_199.jpg,2,British Shorthair,val
+British_Shorthair_200.jpg,2,British Shorthair,val
+British_Shorthair_201.jpg,2,British Shorthair,test
+British_Shorthair_203.jpg,2,British Shorthair,train
+British_Shorthair_204.jpg,2,British Shorthair,test
+British_Shorthair_205.jpg,2,British Shorthair,train
+British_Shorthair_207.jpg,2,British Shorthair,train
+British_Shorthair_209.jpg,2,British Shorthair,train
+British_Shorthair_210.jpg,2,British Shorthair,val
+pug_147.jpg,7,Pug,train
+pug_148.jpg,7,Pug,train
+pug_149.jpg,7,Pug,train
+pug_14.jpg,7,Pug,train
+pug_150.jpg,7,Pug,val
+pug_151.jpg,7,Pug,train
+pug_153.jpg,7,Pug,train
+pug_154.jpg,7,Pug,train
+pug_155.jpg,7,Pug,train
+pug_156.jpg,7,Pug,train
+pug_157.jpg,7,Pug,train
+pug_158.jpg,7,Pug,val
+pug_159.jpg,7,Pug,train
+pug_15.jpg,7,Pug,train
+pug_160.jpg,7,Pug,val
+pug_161.jpg,7,Pug,train
+pug_162.jpg,7,Pug,train
+pug_163.jpg,7,Pug,val
+pug_164.jpg,7,Pug,train
+pug_165.jpg,7,Pug,train
+pug_166.jpg,7,Pug,train
+pug_167.jpg,7,Pug,train
+pug_168.jpg,7,Pug,val
+pug_169.jpg,7,Pug,train
+pug_16.jpg,7,Pug,train
+pug_170.jpg,7,Pug,train
+pug_171.jpg,7,Pug,train
+pug_172.jpg,7,Pug,train
+pug_173.jpg,7,Pug,train
+pug_174.jpg,7,Pug,train
+pug_175.jpg,7,Pug,train
+pug_176.jpg,7,Pug,val
+pug_177.jpg,7,Pug,train
+pug_178.jpg,7,Pug,test
+pug_179.jpg,7,Pug,train
+pug_17.jpg,7,Pug,train
+pug_180.jpg,7,Pug,train
+pug_181.jpg,7,Pug,train
+pug_182.jpg,7,Pug,train
+pug_183.jpg,7,Pug,train
+pug_184.jpg,7,Pug,train
+pug_185.jpg,7,Pug,train
+pug_186.jpg,7,Pug,test
+pug_187.jpg,7,Pug,train
+pug_188.jpg,7,Pug,train
+pug_189.jpg,7,Pug,test
+pug_18.jpg,7,Pug,train
+pug_190.jpg,7,Pug,test
+pug_191.jpg,7,Pug,train
+pug_192.jpg,7,Pug,train
+Russian_Blue_152.jpg,3,Russian Blue,train
+Russian_Blue_153.jpg,3,Russian Blue,train
+Russian_Blue_154.jpg,3,Russian Blue,train
+Russian_Blue_155.jpg,3,Russian Blue,test
+Russian_Blue_156.jpg,3,Russian Blue,train
+Russian_Blue_157.jpg,3,Russian Blue,test
+Russian_Blue_158.jpg,3,Russian Blue,train
+Russian_Blue_159.jpg,3,Russian Blue,val
+Russian_Blue_160.jpg,3,Russian Blue,train
+Russian_Blue_161.jpg,3,Russian Blue,test
+Russian_Blue_162.jpg,3,Russian Blue,test
+Russian_Blue_164.jpg,3,Russian Blue,train
+Russian_Blue_165.jpg,3,Russian Blue,train
+Russian_Blue_166.jpg,3,Russian Blue,train
+Russian_Blue_168.jpg,3,Russian Blue,train
+Russian_Blue_169.jpg,3,Russian Blue,train
+Russian_Blue_16.jpg,3,Russian Blue,train
+Russian_Blue_170.jpg,3,Russian Blue,train
+Russian_Blue_171.jpg,3,Russian Blue,train
+Russian_Blue_172.jpg,3,Russian Blue,train
+Russian_Blue_173.jpg,3,Russian Blue,train
+Russian_Blue_174.jpg,3,Russian Blue,train
+Russian_Blue_175.jpg,3,Russian Blue,train
+Russian_Blue_176.jpg,3,Russian Blue,val
+Russian_Blue_177.jpg,3,Russian Blue,train
+Russian_Blue_178.jpg,3,Russian Blue,train
+Russian_Blue_179.jpg,3,Russian Blue,train
+Russian_Blue_17.jpg,3,Russian Blue,train
+Russian_Blue_180.jpg,3,Russian Blue,train
+Russian_Blue_181.jpg,3,Russian Blue,val
+Russian_Blue_182.jpg,3,Russian Blue,train
+Russian_Blue_183.jpg,3,Russian Blue,val
+Russian_Blue_184.jpg,3,Russian Blue,train
+Russian_Blue_185.jpg,3,Russian Blue,train
+Russian_Blue_186.jpg,3,Russian Blue,train
+Russian_Blue_187.jpg,3,Russian Blue,train
+Russian_Blue_188.jpg,3,Russian Blue,train
+Russian_Blue_18.jpg,3,Russian Blue,train
+Russian_Blue_191.jpg,3,Russian Blue,train
+Russian_Blue_192.jpg,3,Russian Blue,test
+Russian_Blue_193.jpg,3,Russian Blue,train
+Russian_Blue_194.jpg,3,Russian Blue,val
+Russian_Blue_195.jpg,3,Russian Blue,train
+Russian_Blue_196.jpg,3,Russian Blue,train
+Russian_Blue_197.jpg,3,Russian Blue,train
+Russian_Blue_198.jpg,3,Russian Blue,train
+Russian_Blue_199.jpg,3,Russian Blue,train
+Russian_Blue_19.jpg,3,Russian Blue,train
+Russian_Blue_1.jpg,3,Russian Blue,train
+Russian_Blue_200.jpg,3,Russian Blue,train
+samoyed_146.jpg,8,Samoyed,train
+samoyed_147.jpg,8,Samoyed,train
+samoyed_148.jpg,8,Samoyed,train
+samoyed_149.jpg,8,Samoyed,train
+samoyed_14.jpg,8,Samoyed,train
+samoyed_150.jpg,8,Samoyed,train
+samoyed_151.jpg,8,Samoyed,train
+samoyed_152.jpg,8,Samoyed,test
+samoyed_153.jpg,8,Samoyed,train
+samoyed_154.jpg,8,Samoyed,test
+samoyed_155.jpg,8,Samoyed,train
+samoyed_156.jpg,8,Samoyed,train
+samoyed_157.jpg,8,Samoyed,val
+samoyed_158.jpg,8,Samoyed,train
+samoyed_159.jpg,8,Samoyed,train
+samoyed_15.jpg,8,Samoyed,train
+samoyed_160.jpg,8,Samoyed,train
+samoyed_161.jpg,8,Samoyed,val
+samoyed_162.jpg,8,Samoyed,train
+samoyed_163.jpg,8,Samoyed,val
+samoyed_164.jpg,8,Samoyed,train
+samoyed_165.jpg,8,Samoyed,train
+samoyed_166.jpg,8,Samoyed,train
+samoyed_167.jpg,8,Samoyed,test
+samoyed_168.jpg,8,Samoyed,val
+samoyed_169.jpg,8,Samoyed,train
+samoyed_16.jpg,8,Samoyed,train
+samoyed_170.jpg,8,Samoyed,train
+samoyed_171.jpg,8,Samoyed,val
+samoyed_172.jpg,8,Samoyed,train
+samoyed_173.jpg,8,Samoyed,test
+samoyed_174.jpg,8,Samoyed,train
+samoyed_175.jpg,8,Samoyed,train
+samoyed_176.jpg,8,Samoyed,val
+samoyed_177.jpg,8,Samoyed,train
+samoyed_178.jpg,8,Samoyed,train
+samoyed_179.jpg,8,Samoyed,train
+samoyed_17.jpg,8,Samoyed,train
+samoyed_180.jpg,8,Samoyed,train
+samoyed_181.jpg,8,Samoyed,train
+samoyed_182.jpg,8,Samoyed,train
+samoyed_183.jpg,8,Samoyed,test
+samoyed_184.jpg,8,Samoyed,train
+samoyed_185.jpg,8,Samoyed,train
+samoyed_186.jpg,8,Samoyed,train
+samoyed_187.jpg,8,Samoyed,test
+samoyed_188.jpg,8,Samoyed,train
+samoyed_189.jpg,8,Samoyed,train
+samoyed_18.jpg,8,Samoyed,test
+samoyed_190.jpg,8,Samoyed,train
+shiba_inu_147.jpg,9,Shiba Inu,test
+shiba_inu_14.jpg,9,Shiba Inu,train
+shiba_inu_150.jpg,9,Shiba Inu,val
+shiba_inu_152.jpg,9,Shiba Inu,train
+shiba_inu_153.jpg,9,Shiba Inu,train
+shiba_inu_154.jpg,9,Shiba Inu,val
+shiba_inu_155.jpg,9,Shiba Inu,train
+shiba_inu_156.jpg,9,Shiba Inu,train
+shiba_inu_157.jpg,9,Shiba Inu,val
+shiba_inu_158.jpg,9,Shiba Inu,train
+shiba_inu_159.jpg,9,Shiba Inu,train
+shiba_inu_15.jpg,9,Shiba Inu,train
+shiba_inu_160.jpg,9,Shiba Inu,train
+shiba_inu_161.jpg,9,Shiba Inu,train
+shiba_inu_162.jpg,9,Shiba Inu,train
+shiba_inu_163.jpg,9,Shiba Inu,test
+shiba_inu_164.jpg,9,Shiba Inu,train
+shiba_inu_165.jpg,9,Shiba Inu,train
+shiba_inu_166.jpg,9,Shiba Inu,train
+shiba_inu_168.jpg,9,Shiba Inu,train
+shiba_inu_16.jpg,9,Shiba Inu,train
+shiba_inu_170.jpg,9,Shiba Inu,train
+shiba_inu_171.jpg,9,Shiba Inu,train
+shiba_inu_172.jpg,9,Shiba Inu,train
+shiba_inu_173.jpg,9,Shiba Inu,train
+shiba_inu_174.jpg,9,Shiba Inu,val
+shiba_inu_175.jpg,9,Shiba Inu,train
+shiba_inu_176.jpg,9,Shiba Inu,val
+shiba_inu_177.jpg,9,Shiba Inu,test
+shiba_inu_178.jpg,9,Shiba Inu,train
+shiba_inu_179.jpg,9,Shiba Inu,train
+shiba_inu_180.jpg,9,Shiba Inu,val
+shiba_inu_181.jpg,9,Shiba Inu,train
+shiba_inu_182.jpg,9,Shiba Inu,train
+shiba_inu_183.jpg,9,Shiba Inu,train
+shiba_inu_185.jpg,9,Shiba Inu,train
+shiba_inu_186.jpg,9,Shiba Inu,test
+shiba_inu_187.jpg,9,Shiba Inu,train
+shiba_inu_189.jpg,9,Shiba Inu,train
+shiba_inu_18.jpg,9,Shiba Inu,train
+shiba_inu_190.jpg,9,Shiba Inu,train
+shiba_inu_191.jpg,9,Shiba Inu,train
+shiba_inu_192.jpg,9,Shiba Inu,val
+shiba_inu_193.jpg,9,Shiba Inu,test
+shiba_inu_194.jpg,9,Shiba Inu,train
+shiba_inu_195.jpg,9,Shiba Inu,test
+shiba_inu_196.jpg,9,Shiba Inu,test
+shiba_inu_198.jpg,9,Shiba Inu,val
+shiba_inu_199.jpg,9,Shiba Inu,val
+shiba_inu_19.jpg,9,Shiba Inu,test
+Siamese_157.jpg,4,Siamese,train
+Siamese_158.jpg,4,Siamese,train
+Siamese_159.jpg,4,Siamese,train
+Siamese_160.jpg,4,Siamese,train
+Siamese_161.jpg,4,Siamese,train
+Siamese_162.jpg,4,Siamese,val
+Siamese_163.jpg,4,Siamese,train
+Siamese_164.jpg,4,Siamese,train
+Siamese_165.jpg,4,Siamese,train
+Siamese_167.jpg,4,Siamese,train
+Siamese_168.jpg,4,Siamese,val
+Siamese_169.jpg,4,Siamese,train
+Siamese_170.jpg,4,Siamese,test
+Siamese_171.jpg,4,Siamese,train
+Siamese_172.jpg,4,Siamese,train
+Siamese_173.jpg,4,Siamese,train
+Siamese_174.jpg,4,Siamese,val
+Siamese_175.jpg,4,Siamese,val
+Siamese_176.jpg,4,Siamese,train
+Siamese_178.jpg,4,Siamese,train
+Siamese_179.jpg,4,Siamese,train
+Siamese_17.jpg,4,Siamese,train
+Siamese_180.jpg,4,Siamese,train
+Siamese_181.jpg,4,Siamese,train
+Siamese_182.jpg,4,Siamese,train
+Siamese_183.jpg,4,Siamese,train
+Siamese_184.jpg,4,Siamese,train
+Siamese_185.jpg,4,Siamese,test
+Siamese_186.jpg,4,Siamese,train
+Siamese_187.jpg,4,Siamese,train
+Siamese_188.jpg,4,Siamese,test
+Siamese_189.jpg,4,Siamese,train
+Siamese_18.jpg,4,Siamese,test
+Siamese_191.jpg,4,Siamese,train
+Siamese_193.jpg,4,Siamese,train
+Siamese_194.jpg,4,Siamese,val
+Siamese_195.jpg,4,Siamese,train
+Siamese_196.jpg,4,Siamese,train
+Siamese_198.jpg,4,Siamese,train
+Siamese_199.jpg,4,Siamese,train
+Siamese_19.jpg,4,Siamese,train
+Siamese_200.jpg,4,Siamese,train
+Siamese_201.jpg,4,Siamese,train
+Siamese_202.jpg,4,Siamese,val
+Siamese_204.jpg,4,Siamese,train
+Siamese_205.jpg,4,Siamese,train
+Siamese_206.jpg,4,Siamese,train
+Siamese_207.jpg,4,Siamese,train
+Siamese_208.jpg,4,Siamese,test
+Abyssinian_201.jpg,0,Abyssinian,train
+Abyssinian_202.jpg,0,Abyssinian,train
+Abyssinian_204.jpg,0,Abyssinian,val
+Abyssinian_205.jpg,0,Abyssinian,test
+Abyssinian_206.jpg,0,Abyssinian,train
+Abyssinian_207.jpg,0,Abyssinian,test
+Abyssinian_20.jpg,0,Abyssinian,train
+Abyssinian_210.jpg,0,Abyssinian,test
+Abyssinian_212.jpg,0,Abyssinian,train
+Abyssinian_213.jpg,0,Abyssinian,train
+Abyssinian_215.jpg,0,Abyssinian,test
+Abyssinian_216.jpg,0,Abyssinian,train
+Abyssinian_217.jpg,0,Abyssinian,train
+Abyssinian_219.jpg,0,Abyssinian,train
+Abyssinian_21.jpg,0,Abyssinian,train
+Abyssinian_220.jpg,0,Abyssinian,train
+Abyssinian_221.jpg,0,Abyssinian,val
+Abyssinian_223.jpg,0,Abyssinian,train
+Abyssinian_224.jpg,0,Abyssinian,train
+Abyssinian_225.jpg,0,Abyssinian,train
+Abyssinian_226.jpg,0,Abyssinian,train
+Abyssinian_228.jpg,0,Abyssinian,val
+Abyssinian_22.jpg,0,Abyssinian,train
+Abyssinian_230.jpg,0,Abyssinian,train
+Abyssinian_232.jpg,0,Abyssinian,train
+Abyssinian_24.jpg,0,Abyssinian,train
+Abyssinian_25.jpg,0,Abyssinian,train
+Abyssinian_26.jpg,0,Abyssinian,train
+Abyssinian_27.jpg,0,Abyssinian,train
+Abyssinian_29.jpg,0,Abyssinian,test
+Abyssinian_2.jpg,0,Abyssinian,val
+Abyssinian_30.jpg,0,Abyssinian,test
+Abyssinian_31.jpg,0,Abyssinian,train
+Abyssinian_32.jpg,0,Abyssinian,test
+Abyssinian_33.jpg,0,Abyssinian,test
+Abyssinian_36.jpg,0,Abyssinian,train
+Abyssinian_37.jpg,0,Abyssinian,train
+Abyssinian_3.jpg,0,Abyssinian,train
+Abyssinian_40.jpg,0,Abyssinian,train
+Abyssinian_43.jpg,0,Abyssinian,train
+Abyssinian_44.jpg,0,Abyssinian,train
+Abyssinian_45.jpg,0,Abyssinian,train
+Abyssinian_46.jpg,0,Abyssinian,train
+Abyssinian_47.jpg,0,Abyssinian,val
+Abyssinian_48.jpg,0,Abyssinian,train
+Abyssinian_49.jpg,0,Abyssinian,train
+Abyssinian_4.jpg,0,Abyssinian,train
+Abyssinian_50.jpg,0,Abyssinian,train
+Abyssinian_51.jpg,0,Abyssinian,train
+Abyssinian_52.jpg,0,Abyssinian,test
+Abyssinian_54.jpg,0,Abyssinian,train
+Abyssinian_55.jpg,0,Abyssinian,test
+Abyssinian_56.jpg,0,Abyssinian,train
+Abyssinian_57.jpg,0,Abyssinian,train
+Abyssinian_58.jpg,0,Abyssinian,train
+Abyssinian_5.jpg,0,Abyssinian,train
+Abyssinian_60.jpg,0,Abyssinian,train
+Abyssinian_61.jpg,0,Abyssinian,test
+Abyssinian_62.jpg,0,Abyssinian,train
+Abyssinian_63.jpg,0,Abyssinian,val
+Abyssinian_65.jpg,0,Abyssinian,val
+Abyssinian_66.jpg,0,Abyssinian,train
+Abyssinian_67.jpg,0,Abyssinian,test
+Abyssinian_68.jpg,0,Abyssinian,train
+Abyssinian_69.jpg,0,Abyssinian,train
+Abyssinian_6.jpg,0,Abyssinian,train
+Abyssinian_70.jpg,0,Abyssinian,train
+Abyssinian_71.jpg,0,Abyssinian,train
+Abyssinian_72.jpg,0,Abyssinian,train
+Abyssinian_73.jpg,0,Abyssinian,val
+Abyssinian_74.jpg,0,Abyssinian,train
+Abyssinian_75.jpg,0,Abyssinian,train
+Abyssinian_76.jpg,0,Abyssinian,test
+Abyssinian_77.jpg,0,Abyssinian,train
+Abyssinian_78.jpg,0,Abyssinian,train
+Abyssinian_79.jpg,0,Abyssinian,train
+Abyssinian_7.jpg,0,Abyssinian,train
+Abyssinian_80.jpg,0,Abyssinian,test
+Abyssinian_81.jpg,0,Abyssinian,train
+Abyssinian_83.jpg,0,Abyssinian,train
+Abyssinian_84.jpg,0,Abyssinian,train
+Abyssinian_85.jpg,0,Abyssinian,val
+Abyssinian_86.jpg,0,Abyssinian,test
+Abyssinian_87.jpg,0,Abyssinian,train
+Abyssinian_88.jpg,0,Abyssinian,train
+Abyssinian_89.jpg,0,Abyssinian,train
+Abyssinian_8.jpg,0,Abyssinian,val
+Abyssinian_90.jpg,0,Abyssinian,val
+Abyssinian_91.jpg,0,Abyssinian,train
+Abyssinian_92.jpg,0,Abyssinian,val
+Abyssinian_93.jpg,0,Abyssinian,train
+Abyssinian_94.jpg,0,Abyssinian,val
+Abyssinian_95.jpg,0,Abyssinian,train
+Abyssinian_96.jpg,0,Abyssinian,train
+Abyssinian_97.jpg,0,Abyssinian,val
+Abyssinian_98.jpg,0,Abyssinian,train
+Abyssinian_99.jpg,0,Abyssinian,train
+Abyssinian_9.jpg,0,Abyssinian,train
+basset_hound_191.jpg,5,Basset Hound,train
+basset_hound_192.jpg,5,Basset Hound,train
+basset_hound_193.jpg,5,Basset Hound,train
+basset_hound_194.jpg,5,Basset Hound,val
+basset_hound_195.jpg,5,Basset Hound,train
+basset_hound_196.jpg,5,Basset Hound,train
+basset_hound_197.jpg,5,Basset Hound,val
+basset_hound_198.jpg,5,Basset Hound,train
+basset_hound_199.jpg,5,Basset Hound,val
+basset_hound_19.jpg,5,Basset Hound,train
+basset_hound_1.jpg,5,Basset Hound,val
+basset_hound_200.jpg,5,Basset Hound,train
+basset_hound_20.jpg,5,Basset Hound,train
+basset_hound_21.jpg,5,Basset Hound,train
+basset_hound_22.jpg,5,Basset Hound,val
+basset_hound_23.jpg,5,Basset Hound,train
+basset_hound_24.jpg,5,Basset Hound,train
+basset_hound_25.jpg,5,Basset Hound,val
+basset_hound_26.jpg,5,Basset Hound,train
+basset_hound_27.jpg,5,Basset Hound,train
+basset_hound_28.jpg,5,Basset Hound,train
+basset_hound_29.jpg,5,Basset Hound,train
+basset_hound_2.jpg,5,Basset Hound,val
+basset_hound_30.jpg,5,Basset Hound,train
+basset_hound_31.jpg,5,Basset Hound,train
+basset_hound_32.jpg,5,Basset Hound,train
+basset_hound_33.jpg,5,Basset Hound,train
+basset_hound_34.jpg,5,Basset Hound,train
+basset_hound_35.jpg,5,Basset Hound,train
+basset_hound_36.jpg,5,Basset Hound,val
+basset_hound_37.jpg,5,Basset Hound,train
+basset_hound_38.jpg,5,Basset Hound,train
+basset_hound_39.jpg,5,Basset Hound,train
+basset_hound_3.jpg,5,Basset Hound,test
+basset_hound_40.jpg,5,Basset Hound,test
+basset_hound_41.jpg,5,Basset Hound,val
+basset_hound_42.jpg,5,Basset Hound,train
+basset_hound_43.jpg,5,Basset Hound,train
+basset_hound_44.jpg,5,Basset Hound,train
+basset_hound_45.jpg,5,Basset Hound,train
+basset_hound_46.jpg,5,Basset Hound,test
+basset_hound_47.jpg,5,Basset Hound,train
+basset_hound_48.jpg,5,Basset Hound,train
+basset_hound_49.jpg,5,Basset Hound,train
+basset_hound_4.jpg,5,Basset Hound,train
+basset_hound_50.jpg,5,Basset Hound,train
+basset_hound_51.jpg,5,Basset Hound,train
+basset_hound_52.jpg,5,Basset Hound,test
+basset_hound_53.jpg,5,Basset Hound,train
+basset_hound_54.jpg,5,Basset Hound,train
+basset_hound_55.jpg,5,Basset Hound,train
+basset_hound_56.jpg,5,Basset Hound,train
+basset_hound_57.jpg,5,Basset Hound,train
+basset_hound_58.jpg,5,Basset Hound,train
+basset_hound_59.jpg,5,Basset Hound,test
+basset_hound_5.jpg,5,Basset Hound,train
+basset_hound_60.jpg,5,Basset Hound,test
+basset_hound_61.jpg,5,Basset Hound,train
+basset_hound_62.jpg,5,Basset Hound,val
+basset_hound_63.jpg,5,Basset Hound,train
+basset_hound_64.jpg,5,Basset Hound,train
+basset_hound_65.jpg,5,Basset Hound,train
+basset_hound_66.jpg,5,Basset Hound,test
+basset_hound_67.jpg,5,Basset Hound,val
+basset_hound_68.jpg,5,Basset Hound,train
+basset_hound_69.jpg,5,Basset Hound,train
+basset_hound_6.jpg,5,Basset Hound,test
+basset_hound_70.jpg,5,Basset Hound,train
+basset_hound_71.jpg,5,Basset Hound,train
+basset_hound_72.jpg,5,Basset Hound,test
+basset_hound_73.jpg,5,Basset Hound,train
+basset_hound_74.jpg,5,Basset Hound,train
+basset_hound_75.jpg,5,Basset Hound,val
+basset_hound_76.jpg,5,Basset Hound,train
+basset_hound_77.jpg,5,Basset Hound,train
+basset_hound_78.jpg,5,Basset Hound,val
+basset_hound_79.jpg,5,Basset Hound,train
+basset_hound_7.jpg,5,Basset Hound,val
+basset_hound_80.jpg,5,Basset Hound,test
+basset_hound_81.jpg,5,Basset Hound,train
+basset_hound_82.jpg,5,Basset Hound,train
+basset_hound_83.jpg,5,Basset Hound,train
+basset_hound_84.jpg,5,Basset Hound,test
+basset_hound_85.jpg,5,Basset Hound,test
+basset_hound_86.jpg,5,Basset Hound,val
+basset_hound_87.jpg,5,Basset Hound,test
+basset_hound_88.jpg,5,Basset Hound,train
+basset_hound_89.jpg,5,Basset Hound,val
+basset_hound_8.jpg,5,Basset Hound,val
+basset_hound_90.jpg,5,Basset Hound,test
+basset_hound_91.jpg,5,Basset Hound,train
+basset_hound_92.jpg,5,Basset Hound,test
+basset_hound_93.jpg,5,Basset Hound,test
+basset_hound_94.jpg,5,Basset Hound,train
+basset_hound_95.jpg,5,Basset Hound,train
+basset_hound_96.jpg,5,Basset Hound,train
+basset_hound_97.jpg,5,Basset Hound,train
+basset_hound_98.jpg,5,Basset Hound,test
+basset_hound_99.jpg,5,Basset Hound,test
+basset_hound_9.jpg,5,Basset Hound,val
+beagle_195.jpg,6,Beagle,train
+beagle_196.jpg,6,Beagle,train
+beagle_197.jpg,6,Beagle,train
+beagle_198.jpg,6,Beagle,train
+beagle_199.jpg,6,Beagle,train
+beagle_19.jpg,6,Beagle,train
+beagle_1.jpg,6,Beagle,train
+beagle_200.jpg,6,Beagle,test
+beagle_201.jpg,6,Beagle,train
+beagle_202.jpg,6,Beagle,train
+beagle_203.jpg,6,Beagle,train
+beagle_204.jpg,6,Beagle,val
+beagle_20.jpg,6,Beagle,train
+beagle_21.jpg,6,Beagle,val
+beagle_22.jpg,6,Beagle,test
+beagle_23.jpg,6,Beagle,train
+beagle_24.jpg,6,Beagle,train
+beagle_25.jpg,6,Beagle,train
+beagle_26.jpg,6,Beagle,val
+beagle_27.jpg,6,Beagle,test
+beagle_28.jpg,6,Beagle,train
+beagle_29.jpg,6,Beagle,train
+beagle_2.jpg,6,Beagle,train
+beagle_30.jpg,6,Beagle,train
+beagle_31.jpg,6,Beagle,test
+beagle_32.jpg,6,Beagle,train
+beagle_33.jpg,6,Beagle,train
+beagle_34.jpg,6,Beagle,test
+beagle_35.jpg,6,Beagle,val
+beagle_36.jpg,6,Beagle,val
+beagle_37.jpg,6,Beagle,train
+beagle_38.jpg,6,Beagle,train
+beagle_39.jpg,6,Beagle,train
+beagle_3.jpg,6,Beagle,train
+beagle_40.jpg,6,Beagle,train
+beagle_41.jpg,6,Beagle,train
+beagle_42.jpg,6,Beagle,val
+beagle_43.jpg,6,Beagle,train
+beagle_44.jpg,6,Beagle,train
+beagle_45.jpg,6,Beagle,test
+beagle_46.jpg,6,Beagle,train
+beagle_47.jpg,6,Beagle,test
+beagle_48.jpg,6,Beagle,train
+beagle_49.jpg,6,Beagle,val
+beagle_4.jpg,6,Beagle,train
+beagle_50.jpg,6,Beagle,train
+beagle_51.jpg,6,Beagle,test
+beagle_52.jpg,6,Beagle,val
+beagle_53.jpg,6,Beagle,train
+beagle_54.jpg,6,Beagle,train
+beagle_55.jpg,6,Beagle,val
+beagle_56.jpg,6,Beagle,train
+beagle_57.jpg,6,Beagle,train
+beagle_58.jpg,6,Beagle,train
+beagle_59.jpg,6,Beagle,train
+beagle_5.jpg,6,Beagle,train
+beagle_60.jpg,6,Beagle,train
+beagle_61.jpg,6,Beagle,train
+beagle_62.jpg,6,Beagle,train
+beagle_63.jpg,6,Beagle,train
+beagle_64.jpg,6,Beagle,test
+beagle_65.jpg,6,Beagle,test
+beagle_66.jpg,6,Beagle,train
+beagle_67.jpg,6,Beagle,train
+beagle_68.jpg,6,Beagle,val
+beagle_69.jpg,6,Beagle,train
+beagle_6.jpg,6,Beagle,train
+beagle_70.jpg,6,Beagle,train
+beagle_71.jpg,6,Beagle,train
+beagle_72.jpg,6,Beagle,train
+beagle_73.jpg,6,Beagle,train
+beagle_74.jpg,6,Beagle,test
+beagle_75.jpg,6,Beagle,train
+beagle_76.jpg,6,Beagle,train
+beagle_77.jpg,6,Beagle,train
+beagle_78.jpg,6,Beagle,test
+beagle_79.jpg,6,Beagle,train
+beagle_7.jpg,6,Beagle,test
+beagle_80.jpg,6,Beagle,train
+beagle_81.jpg,6,Beagle,train
+beagle_82.jpg,6,Beagle,train
+beagle_83.jpg,6,Beagle,val
+beagle_84.jpg,6,Beagle,train
+beagle_85.jpg,6,Beagle,train
+beagle_86.jpg,6,Beagle,train
+beagle_87.jpg,6,Beagle,test
+beagle_88.jpg,6,Beagle,val
+beagle_89.jpg,6,Beagle,train
+beagle_8.jpg,6,Beagle,train
+beagle_90.jpg,6,Beagle,train
+beagle_91.jpg,6,Beagle,train
+beagle_92.jpg,6,Beagle,train
+beagle_93.jpg,6,Beagle,train
+beagle_94.jpg,6,Beagle,train
+beagle_95.jpg,6,Beagle,train
+beagle_96.jpg,6,Beagle,train
+beagle_97.jpg,6,Beagle,train
+beagle_98.jpg,6,Beagle,train
+beagle_99.jpg,6,Beagle,train
+beagle_9.jpg,6,Beagle,train
+Bengal_192.jpg,1,Bengal,train
+Bengal_193.jpg,1,Bengal,train
+Bengal_194.jpg,1,Bengal,train
+Bengal_195.jpg,1,Bengal,val
+Bengal_196.jpg,1,Bengal,train
+Bengal_197.jpg,1,Bengal,train
+Bengal_198.jpg,1,Bengal,train
+Bengal_199.jpg,1,Bengal,train
+Bengal_19.jpg,1,Bengal,train
+Bengal_1.jpg,1,Bengal,train
+Bengal_200.jpg,1,Bengal,train
+Bengal_201.jpg,1,Bengal,test
+Bengal_20.jpg,1,Bengal,test
+Bengal_21.jpg,1,Bengal,train
+Bengal_22.jpg,1,Bengal,train
+Bengal_23.jpg,1,Bengal,val
+Bengal_24.jpg,1,Bengal,train
+Bengal_25.jpg,1,Bengal,train
+Bengal_26.jpg,1,Bengal,train
+Bengal_27.jpg,1,Bengal,test
+Bengal_28.jpg,1,Bengal,train
+Bengal_29.jpg,1,Bengal,train
+Bengal_2.jpg,1,Bengal,val
+Bengal_30.jpg,1,Bengal,val
+Bengal_31.jpg,1,Bengal,train
+Bengal_32.jpg,1,Bengal,train
+Bengal_33.jpg,1,Bengal,train
+Bengal_34.jpg,1,Bengal,val
+Bengal_35.jpg,1,Bengal,test
+Bengal_36.jpg,1,Bengal,train
+Bengal_37.jpg,1,Bengal,test
+Bengal_38.jpg,1,Bengal,train
+Bengal_39.jpg,1,Bengal,train
+Bengal_3.jpg,1,Bengal,train
+Bengal_40.jpg,1,Bengal,train
+Bengal_41.jpg,1,Bengal,train
+Bengal_42.jpg,1,Bengal,train
+Bengal_43.jpg,1,Bengal,train
+Bengal_44.jpg,1,Bengal,test
+Bengal_45.jpg,1,Bengal,val
+Bengal_46.jpg,1,Bengal,train
+Bengal_47.jpg,1,Bengal,train
+Bengal_48.jpg,1,Bengal,train
+Bengal_49.jpg,1,Bengal,val
+Bengal_4.jpg,1,Bengal,val
+Bengal_50.jpg,1,Bengal,train
+Bengal_51.jpg,1,Bengal,val
+Bengal_52.jpg,1,Bengal,test
+Bengal_53.jpg,1,Bengal,train
+Bengal_54.jpg,1,Bengal,train
+Bengal_55.jpg,1,Bengal,test
+Bengal_56.jpg,1,Bengal,train
+Bengal_57.jpg,1,Bengal,train
+Bengal_58.jpg,1,Bengal,train
+Bengal_59.jpg,1,Bengal,train
+Bengal_5.jpg,1,Bengal,train
+Bengal_60.jpg,1,Bengal,train
+Bengal_61.jpg,1,Bengal,train
+Bengal_62.jpg,1,Bengal,val
+Bengal_63.jpg,1,Bengal,val
+Bengal_64.jpg,1,Bengal,test
+Bengal_65.jpg,1,Bengal,train
+Bengal_66.jpg,1,Bengal,val
+Bengal_67.jpg,1,Bengal,val
+Bengal_68.jpg,1,Bengal,val
+Bengal_69.jpg,1,Bengal,train
+Bengal_6.jpg,1,Bengal,train
+Bengal_70.jpg,1,Bengal,test
+Bengal_71.jpg,1,Bengal,train
+Bengal_72.jpg,1,Bengal,train
+Bengal_73.jpg,1,Bengal,train
+Bengal_74.jpg,1,Bengal,test
+Bengal_75.jpg,1,Bengal,train
+Bengal_76.jpg,1,Bengal,train
+Bengal_77.jpg,1,Bengal,train
+Bengal_78.jpg,1,Bengal,test
+Bengal_79.jpg,1,Bengal,val
+Bengal_7.jpg,1,Bengal,train
+Bengal_80.jpg,1,Bengal,test
+Bengal_81.jpg,1,Bengal,train
+Bengal_82.jpg,1,Bengal,train
+Bengal_83.jpg,1,Bengal,train
+Bengal_84.jpg,1,Bengal,val
+Bengal_85.jpg,1,Bengal,val
+Bengal_86.jpg,1,Bengal,test
+Bengal_87.jpg,1,Bengal,train
+Bengal_88.jpg,1,Bengal,train
+Bengal_89.jpg,1,Bengal,test
+Bengal_8.jpg,1,Bengal,train
+Bengal_90.jpg,1,Bengal,train
+Bengal_91.jpg,1,Bengal,train
+Bengal_92.jpg,1,Bengal,train
+Bengal_93.jpg,1,Bengal,train
+Bengal_94.jpg,1,Bengal,train
+Bengal_95.jpg,1,Bengal,train
+Bengal_96.jpg,1,Bengal,train
+Bengal_97.jpg,1,Bengal,test
+Bengal_98.jpg,1,Bengal,test
+Bengal_99.jpg,1,Bengal,val
+Bengal_9.jpg,1,Bengal,train
+British_Shorthair_212.jpg,2,British Shorthair,test
+British_Shorthair_213.jpg,2,British Shorthair,train
+British_Shorthair_218.jpg,2,British Shorthair,train
+British_Shorthair_21.jpg,2,British Shorthair,train
+British_Shorthair_223.jpg,2,British Shorthair,train
+British_Shorthair_22.jpg,2,British Shorthair,test
+British_Shorthair_230.jpg,2,British Shorthair,train
+British_Shorthair_239.jpg,2,British Shorthair,train
+British_Shorthair_241.jpg,2,British Shorthair,train
+British_Shorthair_248.jpg,2,British Shorthair,train
+British_Shorthair_258.jpg,2,British Shorthair,train
+British_Shorthair_25.jpg,2,British Shorthair,train
+British_Shorthair_263.jpg,2,British Shorthair,train
+British_Shorthair_265.jpg,2,British Shorthair,train
+British_Shorthair_266.jpg,2,British Shorthair,train
+British_Shorthair_267.jpg,2,British Shorthair,train
+British_Shorthair_268.jpg,2,British Shorthair,val
+British_Shorthair_269.jpg,2,British Shorthair,val
+British_Shorthair_26.jpg,2,British Shorthair,train
+British_Shorthair_270.jpg,2,British Shorthair,test
+British_Shorthair_271.jpg,2,British Shorthair,train
+British_Shorthair_272.jpg,2,British Shorthair,test
+British_Shorthair_273.jpg,2,British Shorthair,train
+British_Shorthair_274.jpg,2,British Shorthair,test
+British_Shorthair_275.jpg,2,British Shorthair,train
+British_Shorthair_276.jpg,2,British Shorthair,test
+British_Shorthair_277.jpg,2,British Shorthair,test
+British_Shorthair_278.jpg,2,British Shorthair,train
+British_Shorthair_27.jpg,2,British Shorthair,val
+British_Shorthair_28.jpg,2,British Shorthair,train
+British_Shorthair_29.jpg,2,British Shorthair,train
+British_Shorthair_2.jpg,2,British Shorthair,train
+British_Shorthair_30.jpg,2,British Shorthair,train
+British_Shorthair_31.jpg,2,British Shorthair,train
+British_Shorthair_32.jpg,2,British Shorthair,train
+British_Shorthair_33.jpg,2,British Shorthair,train
+British_Shorthair_34.jpg,2,British Shorthair,val
+British_Shorthair_36.jpg,2,British Shorthair,val
+British_Shorthair_37.jpg,2,British Shorthair,train
+British_Shorthair_38.jpg,2,British Shorthair,val
+British_Shorthair_39.jpg,2,British Shorthair,train
+British_Shorthair_3.jpg,2,British Shorthair,train
+British_Shorthair_40.jpg,2,British Shorthair,train
+British_Shorthair_41.jpg,2,British Shorthair,test
+British_Shorthair_42.jpg,2,British Shorthair,test
+British_Shorthair_43.jpg,2,British Shorthair,train
+British_Shorthair_44.jpg,2,British Shorthair,test
+British_Shorthair_45.jpg,2,British Shorthair,train
+British_Shorthair_46.jpg,2,British Shorthair,train
+British_Shorthair_47.jpg,2,British Shorthair,test
+British_Shorthair_48.jpg,2,British Shorthair,train
+British_Shorthair_49.jpg,2,British Shorthair,train
+British_Shorthair_50.jpg,2,British Shorthair,train
+British_Shorthair_51.jpg,2,British Shorthair,val
+British_Shorthair_52.jpg,2,British Shorthair,test
+British_Shorthair_53.jpg,2,British Shorthair,train
+British_Shorthair_54.jpg,2,British Shorthair,train
+British_Shorthair_55.jpg,2,British Shorthair,val
+British_Shorthair_56.jpg,2,British Shorthair,train
+British_Shorthair_57.jpg,2,British Shorthair,train
+British_Shorthair_58.jpg,2,British Shorthair,test
+British_Shorthair_59.jpg,2,British Shorthair,train
+British_Shorthair_60.jpg,2,British Shorthair,train
+British_Shorthair_61.jpg,2,British Shorthair,test
+British_Shorthair_62.jpg,2,British Shorthair,train
+British_Shorthair_63.jpg,2,British Shorthair,train
+British_Shorthair_64.jpg,2,British Shorthair,train
+British_Shorthair_65.jpg,2,British Shorthair,train
+British_Shorthair_66.jpg,2,British Shorthair,val
+British_Shorthair_67.jpg,2,British Shorthair,val
+British_Shorthair_68.jpg,2,British Shorthair,train
+British_Shorthair_6.jpg,2,British Shorthair,train
+British_Shorthair_70.jpg,2,British Shorthair,train
+British_Shorthair_71.jpg,2,British Shorthair,train
+British_Shorthair_72.jpg,2,British Shorthair,train
+British_Shorthair_74.jpg,2,British Shorthair,train
+British_Shorthair_75.jpg,2,British Shorthair,val
+British_Shorthair_77.jpg,2,British Shorthair,test
+British_Shorthair_78.jpg,2,British Shorthair,val
+British_Shorthair_79.jpg,2,British Shorthair,train
+British_Shorthair_82.jpg,2,British Shorthair,train
+British_Shorthair_83.jpg,2,British Shorthair,test
+British_Shorthair_84.jpg,2,British Shorthair,val
+British_Shorthair_85.jpg,2,British Shorthair,train
+British_Shorthair_86.jpg,2,British Shorthair,train
+British_Shorthair_87.jpg,2,British Shorthair,test
+British_Shorthair_88.jpg,2,British Shorthair,train
+British_Shorthair_89.jpg,2,British Shorthair,test
+British_Shorthair_8.jpg,2,British Shorthair,train
+British_Shorthair_90.jpg,2,British Shorthair,train
+British_Shorthair_91.jpg,2,British Shorthair,test
+British_Shorthair_92.jpg,2,British Shorthair,train
+British_Shorthair_93.jpg,2,British Shorthair,train
+British_Shorthair_94.jpg,2,British Shorthair,train
+British_Shorthair_95.jpg,2,British Shorthair,train
+British_Shorthair_96.jpg,2,British Shorthair,train
+British_Shorthair_97.jpg,2,British Shorthair,train
+British_Shorthair_98.jpg,2,British Shorthair,train
+British_Shorthair_99.jpg,2,British Shorthair,train
+British_Shorthair_9.jpg,2,British Shorthair,train
+pug_193.jpg,7,Pug,train
+pug_194.jpg,7,Pug,train
+pug_195.jpg,7,Pug,val
+pug_196.jpg,7,Pug,train
+pug_197.jpg,7,Pug,train
+pug_198.jpg,7,Pug,train
+pug_199.jpg,7,Pug,train
+pug_19.jpg,7,Pug,test
+pug_1.jpg,7,Pug,train
+pug_200.jpg,7,Pug,train
+pug_201.jpg,7,Pug,train
+pug_202.jpg,7,Pug,train
+pug_203.jpg,7,Pug,train
+pug_20.jpg,7,Pug,train
+pug_21.jpg,7,Pug,train
+pug_22.jpg,7,Pug,val
+pug_23.jpg,7,Pug,train
+pug_24.jpg,7,Pug,train
+pug_25.jpg,7,Pug,train
+pug_26.jpg,7,Pug,test
+pug_27.jpg,7,Pug,test
+pug_28.jpg,7,Pug,train
+pug_29.jpg,7,Pug,test
+pug_2.jpg,7,Pug,train
+pug_30.jpg,7,Pug,train
+pug_31.jpg,7,Pug,val
+pug_32.jpg,7,Pug,train
+pug_33.jpg,7,Pug,train
+pug_34.jpg,7,Pug,train
+pug_35.jpg,7,Pug,train
+pug_36.jpg,7,Pug,test
+pug_37.jpg,7,Pug,train
+pug_38.jpg,7,Pug,test
+pug_39.jpg,7,Pug,train
+pug_3.jpg,7,Pug,train
+pug_40.jpg,7,Pug,train
+pug_41.jpg,7,Pug,train
+pug_42.jpg,7,Pug,train
+pug_43.jpg,7,Pug,train
+pug_44.jpg,7,Pug,train
+pug_45.jpg,7,Pug,test
+pug_46.jpg,7,Pug,test
+pug_47.jpg,7,Pug,train
+pug_48.jpg,7,Pug,train
+pug_49.jpg,7,Pug,train
+pug_4.jpg,7,Pug,test
+pug_50.jpg,7,Pug,train
+pug_51.jpg,7,Pug,train
+pug_52.jpg,7,Pug,train
+pug_53.jpg,7,Pug,train
+pug_54.jpg,7,Pug,train
+pug_55.jpg,7,Pug,test
+pug_56.jpg,7,Pug,val
+pug_57.jpg,7,Pug,train
+pug_58.jpg,7,Pug,val
+pug_59.jpg,7,Pug,train
+pug_5.jpg,7,Pug,train
+pug_60.jpg,7,Pug,val
+pug_61.jpg,7,Pug,val
+pug_62.jpg,7,Pug,test
+pug_63.jpg,7,Pug,val
+pug_64.jpg,7,Pug,train
+pug_65.jpg,7,Pug,train
+pug_66.jpg,7,Pug,train
+pug_67.jpg,7,Pug,train
+pug_68.jpg,7,Pug,train
+pug_69.jpg,7,Pug,test
+pug_6.jpg,7,Pug,test
+pug_70.jpg,7,Pug,train
+pug_71.jpg,7,Pug,val
+pug_72.jpg,7,Pug,val
+pug_73.jpg,7,Pug,train
+pug_74.jpg,7,Pug,test
+pug_75.jpg,7,Pug,train
+pug_76.jpg,7,Pug,test
+pug_77.jpg,7,Pug,val
+pug_78.jpg,7,Pug,train
+pug_79.jpg,7,Pug,train
+pug_7.jpg,7,Pug,test
+pug_80.jpg,7,Pug,train
+pug_81.jpg,7,Pug,test
+pug_82.jpg,7,Pug,val
+pug_84.jpg,7,Pug,train
+pug_85.jpg,7,Pug,train
+pug_86.jpg,7,Pug,val
+pug_87.jpg,7,Pug,train
+pug_88.jpg,7,Pug,val
+pug_89.jpg,7,Pug,test
+pug_8.jpg,7,Pug,train
+pug_90.jpg,7,Pug,test
+pug_91.jpg,7,Pug,train
+pug_92.jpg,7,Pug,train
+pug_93.jpg,7,Pug,train
+pug_94.jpg,7,Pug,train
+pug_95.jpg,7,Pug,test
+pug_96.jpg,7,Pug,train
+pug_97.jpg,7,Pug,train
+pug_98.jpg,7,Pug,train
+pug_99.jpg,7,Pug,train
+pug_9.jpg,7,Pug,train
+Russian_Blue_201.jpg,3,Russian Blue,test
+Russian_Blue_202.jpg,3,Russian Blue,val
+Russian_Blue_203.jpg,3,Russian Blue,train
+Russian_Blue_204.jpg,3,Russian Blue,train
+Russian_Blue_205.jpg,3,Russian Blue,train
+Russian_Blue_206.jpg,3,Russian Blue,train
+Russian_Blue_207.jpg,3,Russian Blue,train
+Russian_Blue_208.jpg,3,Russian Blue,train
+Russian_Blue_209.jpg,3,Russian Blue,train
+Russian_Blue_20.jpg,3,Russian Blue,train
+Russian_Blue_211.jpg,3,Russian Blue,train
+Russian_Blue_212.jpg,3,Russian Blue,train
+Russian_Blue_215.jpg,3,Russian Blue,test
+Russian_Blue_216.jpg,3,Russian Blue,train
+Russian_Blue_21.jpg,3,Russian Blue,test
+Russian_Blue_220.jpg,3,Russian Blue,train
+Russian_Blue_221.jpg,3,Russian Blue,val
+Russian_Blue_222.jpg,3,Russian Blue,val
+Russian_Blue_226.jpg,3,Russian Blue,train
+Russian_Blue_228.jpg,3,Russian Blue,train
+Russian_Blue_232.jpg,3,Russian Blue,train
+Russian_Blue_236.jpg,3,Russian Blue,val
+Russian_Blue_237.jpg,3,Russian Blue,train
+Russian_Blue_239.jpg,3,Russian Blue,train
+Russian_Blue_240.jpg,3,Russian Blue,train
+Russian_Blue_242.jpg,3,Russian Blue,train
+Russian_Blue_244.jpg,3,Russian Blue,train
+Russian_Blue_24.jpg,3,Russian Blue,train
+Russian_Blue_253.jpg,3,Russian Blue,train
+Russian_Blue_258.jpg,3,Russian Blue,train
+Russian_Blue_262.jpg,3,Russian Blue,train
+Russian_Blue_263.jpg,3,Russian Blue,train
+Russian_Blue_264.jpg,3,Russian Blue,train
+Russian_Blue_27.jpg,3,Russian Blue,test
+Russian_Blue_28.jpg,3,Russian Blue,train
+Russian_Blue_29.jpg,3,Russian Blue,test
+Russian_Blue_30.jpg,3,Russian Blue,train
+Russian_Blue_31.jpg,3,Russian Blue,train
+Russian_Blue_32.jpg,3,Russian Blue,train
+Russian_Blue_33.jpg,3,Russian Blue,train
+Russian_Blue_34.jpg,3,Russian Blue,test
+Russian_Blue_35.jpg,3,Russian Blue,train
+Russian_Blue_36.jpg,3,Russian Blue,test
+Russian_Blue_38.jpg,3,Russian Blue,test
+Russian_Blue_40.jpg,3,Russian Blue,test
+Russian_Blue_41.jpg,3,Russian Blue,val
+Russian_Blue_43.jpg,3,Russian Blue,val
+Russian_Blue_44.jpg,3,Russian Blue,train
+Russian_Blue_45.jpg,3,Russian Blue,test
+Russian_Blue_47.jpg,3,Russian Blue,train
+Russian_Blue_48.jpg,3,Russian Blue,train
+Russian_Blue_49.jpg,3,Russian Blue,val
+Russian_Blue_50.jpg,3,Russian Blue,test
+Russian_Blue_51.jpg,3,Russian Blue,train
+Russian_Blue_53.jpg,3,Russian Blue,train
+Russian_Blue_54.jpg,3,Russian Blue,val
+Russian_Blue_55.jpg,3,Russian Blue,train
+Russian_Blue_57.jpg,3,Russian Blue,train
+Russian_Blue_59.jpg,3,Russian Blue,val
+Russian_Blue_60.jpg,3,Russian Blue,test
+Russian_Blue_61.jpg,3,Russian Blue,val
+Russian_Blue_62.jpg,3,Russian Blue,train
+Russian_Blue_63.jpg,3,Russian Blue,train
+Russian_Blue_64.jpg,3,Russian Blue,val
+Russian_Blue_66.jpg,3,Russian Blue,train
+Russian_Blue_67.jpg,3,Russian Blue,val
+Russian_Blue_68.jpg,3,Russian Blue,train
+Russian_Blue_69.jpg,3,Russian Blue,train
+Russian_Blue_70.jpg,3,Russian Blue,train
+Russian_Blue_71.jpg,3,Russian Blue,train
+Russian_Blue_72.jpg,3,Russian Blue,val
+Russian_Blue_73.jpg,3,Russian Blue,train
+Russian_Blue_74.jpg,3,Russian Blue,test
+Russian_Blue_75.jpg,3,Russian Blue,train
+Russian_Blue_76.jpg,3,Russian Blue,train
+Russian_Blue_77.jpg,3,Russian Blue,train
+Russian_Blue_78.jpg,3,Russian Blue,test
+Russian_Blue_79.jpg,3,Russian Blue,train
+Russian_Blue_80.jpg,3,Russian Blue,train
+Russian_Blue_81.jpg,3,Russian Blue,train
+Russian_Blue_82.jpg,3,Russian Blue,train
+Russian_Blue_83.jpg,3,Russian Blue,val
+Russian_Blue_84.jpg,3,Russian Blue,train
+Russian_Blue_85.jpg,3,Russian Blue,train
+Russian_Blue_86.jpg,3,Russian Blue,test
+Russian_Blue_87.jpg,3,Russian Blue,train
+Russian_Blue_88.jpg,3,Russian Blue,train
+Russian_Blue_89.jpg,3,Russian Blue,train
+Russian_Blue_8.jpg,3,Russian Blue,val
+Russian_Blue_90.jpg,3,Russian Blue,test
+Russian_Blue_91.jpg,3,Russian Blue,test
+Russian_Blue_92.jpg,3,Russian Blue,val
+Russian_Blue_93.jpg,3,Russian Blue,test
+Russian_Blue_94.jpg,3,Russian Blue,train
+Russian_Blue_95.jpg,3,Russian Blue,train
+Russian_Blue_96.jpg,3,Russian Blue,val
+Russian_Blue_97.jpg,3,Russian Blue,train
+Russian_Blue_98.jpg,3,Russian Blue,train
+Russian_Blue_99.jpg,3,Russian Blue,train
+Russian_Blue_9.jpg,3,Russian Blue,train
+samoyed_191.jpg,8,Samoyed,val
+samoyed_192.jpg,8,Samoyed,train
+samoyed_194.jpg,8,Samoyed,train
+samoyed_195.jpg,8,Samoyed,train
+samoyed_196.jpg,8,Samoyed,train
+samoyed_197.jpg,8,Samoyed,train
+samoyed_198.jpg,8,Samoyed,train
+samoyed_199.jpg,8,Samoyed,train
+samoyed_19.jpg,8,Samoyed,train
+samoyed_1.jpg,8,Samoyed,train
+samoyed_200.jpg,8,Samoyed,val
+samoyed_202.jpg,8,Samoyed,train
+samoyed_20.jpg,8,Samoyed,train
+samoyed_21.jpg,8,Samoyed,train
+samoyed_22.jpg,8,Samoyed,train
+samoyed_23.jpg,8,Samoyed,val
+samoyed_24.jpg,8,Samoyed,train
+samoyed_25.jpg,8,Samoyed,val
+samoyed_26.jpg,8,Samoyed,test
+samoyed_27.jpg,8,Samoyed,val
+samoyed_28.jpg,8,Samoyed,train
+samoyed_29.jpg,8,Samoyed,train
+samoyed_2.jpg,8,Samoyed,train
+samoyed_30.jpg,8,Samoyed,train
+samoyed_31.jpg,8,Samoyed,test
+samoyed_32.jpg,8,Samoyed,test
+samoyed_33.jpg,8,Samoyed,train
+samoyed_34.jpg,8,Samoyed,train
+samoyed_35.jpg,8,Samoyed,train
+samoyed_36.jpg,8,Samoyed,val
+samoyed_37.jpg,8,Samoyed,val
+samoyed_38.jpg,8,Samoyed,train
+samoyed_39.jpg,8,Samoyed,train
+samoyed_3.jpg,8,Samoyed,val
+samoyed_40.jpg,8,Samoyed,train
+samoyed_41.jpg,8,Samoyed,train
+samoyed_42.jpg,8,Samoyed,train
+samoyed_43.jpg,8,Samoyed,val
+samoyed_44.jpg,8,Samoyed,test
+samoyed_45.jpg,8,Samoyed,train
+samoyed_46.jpg,8,Samoyed,test
+samoyed_47.jpg,8,Samoyed,train
+samoyed_48.jpg,8,Samoyed,train
+samoyed_49.jpg,8,Samoyed,train
+samoyed_4.jpg,8,Samoyed,val
+samoyed_50.jpg,8,Samoyed,train
+samoyed_51.jpg,8,Samoyed,train
+samoyed_52.jpg,8,Samoyed,test
+samoyed_53.jpg,8,Samoyed,train
+samoyed_54.jpg,8,Samoyed,val
+samoyed_55.jpg,8,Samoyed,train
+samoyed_56.jpg,8,Samoyed,val
+samoyed_57.jpg,8,Samoyed,train
+samoyed_58.jpg,8,Samoyed,train
+samoyed_59.jpg,8,Samoyed,train
+samoyed_5.jpg,8,Samoyed,test
+samoyed_60.jpg,8,Samoyed,train
+samoyed_61.jpg,8,Samoyed,test
+samoyed_62.jpg,8,Samoyed,train
+samoyed_63.jpg,8,Samoyed,val
+samoyed_64.jpg,8,Samoyed,train
+samoyed_65.jpg,8,Samoyed,train
+samoyed_66.jpg,8,Samoyed,train
+samoyed_67.jpg,8,Samoyed,val
+samoyed_68.jpg,8,Samoyed,train
+samoyed_69.jpg,8,Samoyed,train
+samoyed_6.jpg,8,Samoyed,train
+samoyed_70.jpg,8,Samoyed,train
+samoyed_71.jpg,8,Samoyed,train
+samoyed_72.jpg,8,Samoyed,train
+samoyed_73.jpg,8,Samoyed,train
+samoyed_74.jpg,8,Samoyed,train
+samoyed_75.jpg,8,Samoyed,val
+samoyed_76.jpg,8,Samoyed,train
+samoyed_77.jpg,8,Samoyed,test
+samoyed_78.jpg,8,Samoyed,test
+samoyed_79.jpg,8,Samoyed,test
+samoyed_7.jpg,8,Samoyed,train
+samoyed_80.jpg,8,Samoyed,train
+samoyed_81.jpg,8,Samoyed,train
+samoyed_82.jpg,8,Samoyed,train
+samoyed_83.jpg,8,Samoyed,test
+samoyed_84.jpg,8,Samoyed,train
+samoyed_85.jpg,8,Samoyed,train
+samoyed_86.jpg,8,Samoyed,train
+samoyed_87.jpg,8,Samoyed,train
+samoyed_88.jpg,8,Samoyed,train
+samoyed_89.jpg,8,Samoyed,train
+samoyed_8.jpg,8,Samoyed,train
+samoyed_90.jpg,8,Samoyed,train
+samoyed_91.jpg,8,Samoyed,train
+samoyed_92.jpg,8,Samoyed,test
+samoyed_93.jpg,8,Samoyed,train
+samoyed_94.jpg,8,Samoyed,val
+samoyed_95.jpg,8,Samoyed,train
+samoyed_96.jpg,8,Samoyed,train
+samoyed_97.jpg,8,Samoyed,train
+samoyed_98.jpg,8,Samoyed,train
+samoyed_99.jpg,8,Samoyed,train
+samoyed_9.jpg,8,Samoyed,train
+shiba_inu_1.jpg,9,Shiba Inu,train
+shiba_inu_200.jpg,9,Shiba Inu,train
+shiba_inu_201.jpg,9,Shiba Inu,train
+shiba_inu_202.jpg,9,Shiba Inu,train
+shiba_inu_203.jpg,9,Shiba Inu,val
+shiba_inu_204.jpg,9,Shiba Inu,train
+shiba_inu_205.jpg,9,Shiba Inu,train
+shiba_inu_206.jpg,9,Shiba Inu,test
+shiba_inu_207.jpg,9,Shiba Inu,train
+shiba_inu_208.jpg,9,Shiba Inu,train
+shiba_inu_209.jpg,9,Shiba Inu,train
+shiba_inu_20.jpg,9,Shiba Inu,train
+shiba_inu_210.jpg,9,Shiba Inu,train
+shiba_inu_212.jpg,9,Shiba Inu,train
+shiba_inu_21.jpg,9,Shiba Inu,test
+shiba_inu_22.jpg,9,Shiba Inu,train
+shiba_inu_23.jpg,9,Shiba Inu,val
+shiba_inu_24.jpg,9,Shiba Inu,train
+shiba_inu_25.jpg,9,Shiba Inu,test
+shiba_inu_26.jpg,9,Shiba Inu,train
+shiba_inu_27.jpg,9,Shiba Inu,train
+shiba_inu_28.jpg,9,Shiba Inu,train
+shiba_inu_29.jpg,9,Shiba Inu,train
+shiba_inu_30.jpg,9,Shiba Inu,train
+shiba_inu_31.jpg,9,Shiba Inu,val
+shiba_inu_32.jpg,9,Shiba Inu,test
+shiba_inu_33.jpg,9,Shiba Inu,train
+shiba_inu_34.jpg,9,Shiba Inu,train
+shiba_inu_35.jpg,9,Shiba Inu,train
+shiba_inu_36.jpg,9,Shiba Inu,train
+shiba_inu_37.jpg,9,Shiba Inu,val
+shiba_inu_38.jpg,9,Shiba Inu,train
+shiba_inu_39.jpg,9,Shiba Inu,train
+shiba_inu_3.jpg,9,Shiba Inu,train
+shiba_inu_40.jpg,9,Shiba Inu,val
+shiba_inu_41.jpg,9,Shiba Inu,test
+shiba_inu_42.jpg,9,Shiba Inu,train
+shiba_inu_43.jpg,9,Shiba Inu,train
+shiba_inu_44.jpg,9,Shiba Inu,train
+shiba_inu_45.jpg,9,Shiba Inu,train
+shiba_inu_46.jpg,9,Shiba Inu,train
+shiba_inu_47.jpg,9,Shiba Inu,train
+shiba_inu_48.jpg,9,Shiba Inu,test
+shiba_inu_49.jpg,9,Shiba Inu,train
+shiba_inu_4.jpg,9,Shiba Inu,train
+shiba_inu_50.jpg,9,Shiba Inu,test
+shiba_inu_51.jpg,9,Shiba Inu,train
+shiba_inu_52.jpg,9,Shiba Inu,val
+shiba_inu_53.jpg,9,Shiba Inu,train
+shiba_inu_54.jpg,9,Shiba Inu,test
+shiba_inu_55.jpg,9,Shiba Inu,train
+shiba_inu_56.jpg,9,Shiba Inu,val
+shiba_inu_57.jpg,9,Shiba Inu,train
+shiba_inu_58.jpg,9,Shiba Inu,train
+shiba_inu_59.jpg,9,Shiba Inu,train
+shiba_inu_5.jpg,9,Shiba Inu,test
+shiba_inu_60.jpg,9,Shiba Inu,train
+shiba_inu_61.jpg,9,Shiba Inu,train
+shiba_inu_62.jpg,9,Shiba Inu,val
+shiba_inu_63.jpg,9,Shiba Inu,train
+shiba_inu_64.jpg,9,Shiba Inu,train
+shiba_inu_65.jpg,9,Shiba Inu,train
+shiba_inu_66.jpg,9,Shiba Inu,train
+shiba_inu_67.jpg,9,Shiba Inu,train
+shiba_inu_68.jpg,9,Shiba Inu,train
+shiba_inu_69.jpg,9,Shiba Inu,train
+shiba_inu_6.jpg,9,Shiba Inu,train
+shiba_inu_70.jpg,9,Shiba Inu,train
+shiba_inu_71.jpg,9,Shiba Inu,train
+shiba_inu_72.jpg,9,Shiba Inu,train
+shiba_inu_73.jpg,9,Shiba Inu,train
+shiba_inu_74.jpg,9,Shiba Inu,train
+shiba_inu_75.jpg,9,Shiba Inu,test
+shiba_inu_76.jpg,9,Shiba Inu,train
+shiba_inu_77.jpg,9,Shiba Inu,train
+shiba_inu_78.jpg,9,Shiba Inu,train
+shiba_inu_79.jpg,9,Shiba Inu,train
+shiba_inu_7.jpg,9,Shiba Inu,train
+shiba_inu_80.jpg,9,Shiba Inu,train
+shiba_inu_81.jpg,9,Shiba Inu,train
+shiba_inu_82.jpg,9,Shiba Inu,train
+shiba_inu_83.jpg,9,Shiba Inu,train
+shiba_inu_84.jpg,9,Shiba Inu,val
+shiba_inu_85.jpg,9,Shiba Inu,val
+shiba_inu_86.jpg,9,Shiba Inu,train
+shiba_inu_87.jpg,9,Shiba Inu,val
+shiba_inu_88.jpg,9,Shiba Inu,train
+shiba_inu_89.jpg,9,Shiba Inu,val
+shiba_inu_8.jpg,9,Shiba Inu,test
+shiba_inu_90.jpg,9,Shiba Inu,train
+shiba_inu_91.jpg,9,Shiba Inu,train
+shiba_inu_92.jpg,9,Shiba Inu,train
+shiba_inu_93.jpg,9,Shiba Inu,train
+shiba_inu_94.jpg,9,Shiba Inu,train
+shiba_inu_95.jpg,9,Shiba Inu,train
+shiba_inu_96.jpg,9,Shiba Inu,train
+shiba_inu_97.jpg,9,Shiba Inu,train
+shiba_inu_98.jpg,9,Shiba Inu,train
+shiba_inu_99.jpg,9,Shiba Inu,train
+shiba_inu_9.jpg,9,Shiba Inu,train
+Siamese_209.jpg,4,Siamese,train
+Siamese_20.jpg,4,Siamese,train
+Siamese_210.jpg,4,Siamese,train
+Siamese_216.jpg,4,Siamese,train
+Siamese_218.jpg,4,Siamese,train
+Siamese_21.jpg,4,Siamese,train
+Siamese_222.jpg,4,Siamese,train
+Siamese_224.jpg,4,Siamese,test
+Siamese_225.jpg,4,Siamese,train
+Siamese_227.jpg,4,Siamese,test
+Siamese_228.jpg,4,Siamese,train
+Siamese_22.jpg,4,Siamese,val
+Siamese_231.jpg,4,Siamese,train
+Siamese_232.jpg,4,Siamese,val
+Siamese_233.jpg,4,Siamese,train
+Siamese_234.jpg,4,Siamese,val
+Siamese_237.jpg,4,Siamese,train
+Siamese_238.jpg,4,Siamese,train
+Siamese_23.jpg,4,Siamese,train
+Siamese_240.jpg,4,Siamese,test
+Siamese_247.jpg,4,Siamese,train
+Siamese_249.jpg,4,Siamese,test
+Siamese_24.jpg,4,Siamese,train
+Siamese_250.jpg,4,Siamese,train
+Siamese_254.jpg,4,Siamese,train
+Siamese_257.jpg,4,Siamese,train
+Siamese_25.jpg,4,Siamese,val
+Siamese_26.jpg,4,Siamese,val
+Siamese_27.jpg,4,Siamese,train
+Siamese_28.jpg,4,Siamese,train
+Siamese_29.jpg,4,Siamese,val
+Siamese_30.jpg,4,Siamese,train
+Siamese_31.jpg,4,Siamese,train
+Siamese_32.jpg,4,Siamese,train
+Siamese_33.jpg,4,Siamese,train
+Siamese_34.jpg,4,Siamese,train
+Siamese_35.jpg,4,Siamese,train
+Siamese_36.jpg,4,Siamese,train
+Siamese_37.jpg,4,Siamese,val
+Siamese_39.jpg,4,Siamese,train
+Siamese_40.jpg,4,Siamese,train
+Siamese_41.jpg,4,Siamese,train
+Siamese_42.jpg,4,Siamese,train
+Siamese_43.jpg,4,Siamese,train
+Siamese_44.jpg,4,Siamese,train
+Siamese_46.jpg,4,Siamese,test
+Siamese_47.jpg,4,Siamese,val
+Siamese_48.jpg,4,Siamese,test
+Siamese_49.jpg,4,Siamese,train
+Siamese_50.jpg,4,Siamese,train
+Siamese_51.jpg,4,Siamese,train
+Siamese_52.jpg,4,Siamese,test
+Siamese_53.jpg,4,Siamese,train
+Siamese_54.jpg,4,Siamese,train
+Siamese_55.jpg,4,Siamese,test
+Siamese_56.jpg,4,Siamese,test
+Siamese_57.jpg,4,Siamese,train
+Siamese_58.jpg,4,Siamese,train
+Siamese_59.jpg,4,Siamese,train
+Siamese_5.jpg,4,Siamese,train
+Siamese_60.jpg,4,Siamese,train
+Siamese_61.jpg,4,Siamese,train
+Siamese_63.jpg,4,Siamese,train
+Siamese_64.jpg,4,Siamese,train
+Siamese_65.jpg,4,Siamese,train
+Siamese_66.jpg,4,Siamese,train
+Siamese_67.jpg,4,Siamese,train
+Siamese_69.jpg,4,Siamese,train
+Siamese_6.jpg,4,Siamese,train
+Siamese_70.jpg,4,Siamese,val
+Siamese_71.jpg,4,Siamese,train
+Siamese_72.jpg,4,Siamese,train
+Siamese_73.jpg,4,Siamese,val
+Siamese_74.jpg,4,Siamese,train
+Siamese_75.jpg,4,Siamese,train
+Siamese_76.jpg,4,Siamese,val
+Siamese_77.jpg,4,Siamese,test
+Siamese_78.jpg,4,Siamese,train
+Siamese_79.jpg,4,Siamese,train
+Siamese_80.jpg,4,Siamese,val
+Siamese_81.jpg,4,Siamese,test
+Siamese_82.jpg,4,Siamese,val
+Siamese_83.jpg,4,Siamese,train
+Siamese_84.jpg,4,Siamese,train
+Siamese_85.jpg,4,Siamese,test
+Siamese_86.jpg,4,Siamese,train
+Siamese_87.jpg,4,Siamese,test
+Siamese_88.jpg,4,Siamese,val
+Siamese_89.jpg,4,Siamese,train
+Siamese_90.jpg,4,Siamese,train
+Siamese_91.jpg,4,Siamese,train
+Siamese_92.jpg,4,Siamese,train
+Siamese_93.jpg,4,Siamese,train
+Siamese_94.jpg,4,Siamese,train
+Siamese_95.jpg,4,Siamese,train
+Siamese_96.jpg,4,Siamese,val
+Siamese_97.jpg,4,Siamese,train
+Siamese_98.jpg,4,Siamese,test
+Siamese_99.jpg,4,Siamese,train
+Siamese_9.jpg,4,Siamese,test
